@@ -66,7 +66,7 @@ The text was received with tokenisation, and annotation with respect to lemmatis
 The syntactic annotation was performed manually, and follows the UD scheme.
 The text consists of 5674 tokens, 299 sentences.
 
-In few cases, the sentence splitting differs from the [received one](http://github.com/CIRCSE/LASLA); deviations from the received annotation are detailed in the file Tacitus_Ger_LASLA_CIRCSE.
+In few cases, the sentence splitting differs from the [received one](http://github.com/CIRCSE/LASLA); deviations from the received annotation are detailed in the file [Tacitus_Ger_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/Tacitus_Germania_LASLA_CIRCSE.md).
 
 
 In adherence to UD guidelines for data split, all three texts within the treebank are maintained together as `test` set, due to the treebank's size.
