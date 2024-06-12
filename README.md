@@ -78,31 +78,3 @@ Since the UD_Latin-CIRCSE treebank is a work in progress, its structure is subje
 # Acknowledgments
 
 The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in the framework of the _LiLa: Linking Latin_ project. LiLa has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994. Warmful thanks to Federica Gamba and Flavio Massimiliano Cecchini for their support and precious advices during the annotation process.
-
-# References
-
-
-
-
-# Changelog
-
-* 2024-05-15 v2.14
-  * Initial release in Universal Dependencies.
-
-
-<pre>
-=== Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.14
-License: CC BY-SA 4.0
-Includes text: yes
-Genre: fiction poetry
-Lemmas: converted with corrections
-UPOS: converted with corrections
-XPOS: converted with corrections
-Features: converted with corrections
-Relations: manual native
-Contributors: Iurescia, Federica; Gamba, Federica; Cecchini, Flavio Massimiliano; Mambrini, Francesco; Moretti, Giovanni; Passarotti, Marco; Ruffolo, Paolo 
-Contributing: here
-Contact: federica.iurescia@unicatt.it
-===============================================================================
-</pre>
