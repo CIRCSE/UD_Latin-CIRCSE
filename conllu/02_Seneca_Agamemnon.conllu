@@ -2737,7 +2737,7 @@
 1	tu	tu	PRON	E	Case=Voc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	5	det	_	LiLaflcat=p
 2	que	que	CCONJ	S	_	1	cc	_	LiLaflcat=i
 3	ante	ante	ADP	R	AdpType=Prep	4	case	_	LASLAVariant=2|LiLaflcat=i
-4	omnis	omnis	DET	L	Case=Acc|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	5	obl	_	LiLaflcat=n7
+4	omnis	omnis	DET	L	Case=Acc|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	1	obl	_	LiLaflcat=n7
 5	pater	pater	NOUN	A3	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
 6	ac	ac	CCONJ	S	_	7	cc	_	LASLAVariant=1|LiLaflcat=i
 7	rector	rector	NOUN	A3	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Sing	5	conj	_	LiLaflcat=n3
@@ -5492,7 +5492,7 @@
 
 # sent_id = SenAgamn-P-21-281
 # text = iam peruagatus ipse se fregit furor caditque flexo qualis ante aras genu ceruice taurus uulnus incertum gerens
-# speaker = Cassandra
+# speaker = Chorus
 1	iam	iam	ADV	M	Degree=Pos	5	advmod:tmod	_	LiLaflcat=i
 2	peruagatus	peruagor	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	LASLAVariant=2|LiLaflcat=v1
 3	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	6	det	_	LiLaflcat=p
@@ -5515,13 +5515,13 @@
 
 # sent_id = SenAgamn-P-21-282
 # text = releuemus artus
-# speaker = Cassandra
+# speaker = Chorus
 1	releuemus	releuo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v1
 2	artus	artus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	1	obj	_	LASLAVariant=1|LiLaflcat=n4
 
 # sent_id = SenAgamn-P-21-283
 # text = en deos tandem suos uictrice lauru cinctus Agamemnon adit et festa coniunx obuios illi tulit gressus reditque iuncta concordi gradu
-# speaker = Cassandra
+# speaker = Chorus
 1	en	en	INTJ	U	_	9	discourse	_	LiLaflcat=i
 2	deos	deus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	9	obj	_	LiLaflcat=n2
 3	tandem	tandem	ADV	M	Degree=Pos	9	advmod:tmod	_	LiLaflcat=i
