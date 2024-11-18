@@ -12,18 +12,31 @@ def assignATokenToSpeaker(speakerList,token):
     for speakerElement in speakerList:
         if type(speakerElement) is not str:
             
-            interval = (int(speakerElement[1].split("-")[0]),int(speakerElement[1].split("-")[1]))
-            
-            tokenId = token["id"]
-            if  type(token["id"]) is tuple:
-                tokenId = token["id"][0]
+            intervals = speakerElement[1].split(";")
+            for intervalRaw in intervals:
 
-            if tokenId >= interval[0] and tokenId <= interval[1]:
-                tokenForm = token['form']
-                speaker = speakerElement[0]
+                beginEnd = intervalRaw.split("-")
+                
+                if len(beginEnd) > 1 :
+                    interval = (int(beginEnd[0]),int(beginEnd[1]))
+                else:
+                    interval = (int(beginEnd[0]),int(beginEnd[0]))
+
+                tokenId = token["id"]
+                if  type(token["id"]) is tuple:
+                    tokenId = token["id"][0]
+
+                if tokenId >= interval[0] and tokenId <= interval[1]:
+                    tokenForm = token['form']
+                    speaker = speakerElement[0]
+
+
+
         else:
             speaker = speakerElement
             tokenForm = token['form']
+
+
     return speaker,tokenForm
 
 
@@ -69,8 +82,8 @@ TRIPLE_INDENT ="      * "
 QUAD_INDENT ="         * "
 QUAD_TAB ="         "
 
-# aFile = "localfile
-# data_file = open(aFile, "r", encoding="utf-8") 
+#aFile = "/Users/giovannimoretti/Downloads/UD_Latin-CIRCSE-main/conllu/01_Seneca_Hercules_Furens.conllu"
+#data_file = open(aFile, "r", encoding="utf-8") 
 
 data_file = open(sys.argv[1], "r", encoding="utf-8") 
 file_content = data_file.read() 
@@ -117,16 +130,10 @@ for sentence in sentences: # ciclo sulle frasi e uso la variabile sentence per o
     for token in sentence:
         if  type(token["id"]) is tuple:
 
-         
             speaker,form = assignATokenToSpeaker(speakerList,token)
             
-           
-
             if len(currentSpeaker) == 0:
                 currentSpeaker = speaker
-
-            
-
 
             if speaker != currentSpeaker:
                 speakerObj = next((x for x in speakerObjectlist if x.name == currentSpeaker), None)
@@ -172,6 +179,9 @@ for sentence in sentences: # ciclo sulle frasi e uso la variabile sentence per o
 speakerObj = next((x for x in speakerObjectlist if x.name == currentSpeaker), None)
 currentSpeech.appendSentenceToSpeech()
 speakerObj.appendSpeech(currentSpeech)
+
+
+
 
 for speaker in speakerObjectlist:
     speaker.getAllTokenCount()
