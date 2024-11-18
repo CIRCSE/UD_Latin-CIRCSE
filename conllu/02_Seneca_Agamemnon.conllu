@@ -1,6 +1,6 @@
 # sent_id = SenAgamn-P-21-1
 # text = opaca linquens Ditis inferni loca adsum profundo Tartari emissus specu incertus utras oderim sedes magis fugio Thyestes inferos superos fugo
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	opaca	opacus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	5	amod	_	LiLaflcat=n6
 2	linquens	linquo	VERB	B3	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	6	advcl:pred	_	LiLaflcat=v3
 3	Ditis	dis	PROPN	A3	Case=Gen|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Sing	5	nmod	_	LASLAVariant=N|LiLaflcat=n3
@@ -24,7 +24,7 @@
 
 # sent_id = SenAgamn-P-21-2
 # text = en horret animus et pauor membra excutit uideo paternos immo fraternos Lares
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	en	en	INTJ	U	_	2	discourse	_	LiLaflcat=i
 2	horret	horreo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 3	animus	animus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	2	nsubj	_	LiLaflcat=n2
@@ -40,7 +40,7 @@
 
 # sent_id = SenAgamn-P-21-3
 # text = hoc est uetustum Pelopiae limen domus hinc auspicari regium capiti decus mos est Pelasgis hoc sedent alti toro quibus superba sceptra gestantur manu locus hic habendae curiae hic epulis locus
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	hoc	hic	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	5	nsubj	_	LASLAVariant=1|LiLaflcat=p
 2	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	LASLAVariant=1|LiLaflcat=v6
 3	uetustum	uetustus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	_	LiLaflcat=n6
@@ -74,13 +74,13 @@
 
 # sent_id = SenAgamn-P-21-4
 # text = libet reuerti
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	libet	libet	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 2	reuerti	reuertor	VERB	B3	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	1	csubj	_	LiLaflcat=v3
 
 # sent_id = SenAgamn-P-21-5
 # text = nonne uel tristes lacus incolere satius nonne custodem Stygis trigemina nigris colla iactantem iubis
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1-2	nonne	_	_	_	_	_	_	_	_
 1	non	non	PART	P	Polarity=Neg	7	advmod:neg	_	LiLaflcat=i
 2	ne	ne	PART	O	PartType=Int	7	discourse	_	LiLaflcat=i
@@ -102,7 +102,7 @@
 
 # sent_id = SenAgamn-P-21-6
 # text = ubi ille celeri corpus euinctus rotae in se refertur ubi per aduersum irritus redeunte totiens luditur saxo labor ubi tondet ales auida fecundum iecur et inter undas feruida exustus siti aquas fugaces ore decepto appetit poenas daturus caelitum dapibus graues sed ille nostrae pars quota est culpae senex
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	ubi	ubi	ADV	O	PronType=Int	9	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i
 2	ille	ille	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	9	nsubj	_	LiLaflcat=p
 3	celeri	celer	ADJ	C3	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	6	amod	_	LiLaflcat=n7
@@ -154,7 +154,7 @@
 
 # sent_id = SenAgamn-P-21-7
 # text = reputemus omnes quos ob infandas manus quaesitor urna Gnosius uersat reos uincam Thyestes sceleribus cunctos meis
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	reputemus	reputo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
 2	omnes	omnis	DET	L	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	1	obj	_	LiLaflcat=n7
 3	quos	qui	PRON	J	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	10	obj	_	LASLAVariant=1|LiLaflcat=p
@@ -174,14 +174,14 @@
 
 # sent_id = SenAgamn-P-21-8
 # text = a fratre uincar
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	a	ab	ADP	R	AdpType=Prep	2	case	_	LiLaflcat=i
 2	fratre	frater	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	3	obl:agent	_	LiLaflcat=n3
 3	uincar	uinco	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
 
 # sent_id = SenAgamn-P-21-9
 # text = liberis plenus tribus in me sepultis
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	liberis	liberi	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	2	obl:arg	_	LiLaflcat=n2
 2	plenus	plenus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6
 3	tribus	tres	NUM	D1	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Plur|NumType=Card	1	nummod	_	LiLaflcat=n7
@@ -191,14 +191,14 @@
 
 # sent_id = SenAgamn-P-21-10
 # text = uiscera exedi mea
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	uiscera	uiscus	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Plur	2	obj	_	LASLAVariant=2|LiLaflcat=n3
 2	exedi	exedo	VERB	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=2|LiLaflcat=v6
 3	mea	meus	DET	F	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6
 
 # sent_id = SenAgamn-P-21-11
 # text = nec hactenus Fortuna maculauit patrem sed maius aliud ausa commisso scelus gnatae nefandos petere concubitus iubet
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	nec	nec	CCONJ	S	Polarity=Neg	4	advmod:neg	_	LASLAVariant=2|LiLaflcat=i
 2	hactenus	hactenus	ADV	M	Degree=Pos	4	advmod:tmod	_	LiLaflcat=i
 3	Fortuna	fortuna	PROPN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|NameType=Rel|Number=Sing	4	nsubj	_	LASLAVariant=N|LiLaflcat=n1
@@ -218,7 +218,7 @@
 
 # sent_id = SenAgamn-P-21-12
 # text = non pauidus hausi dicta sed cepi nefas
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	non	non	PART	P	Polarity=Neg	2	advmod:neg	_	LiLaflcat=i
 2	pauidus	pauidus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	advcl:pred	_	LiLaflcat=n6
 3	hausi	haurio	VERB	B4	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v4
@@ -229,7 +229,7 @@
 
 # sent_id = SenAgamn-P-21-13
 # text = ergo ut per omnis liberos irem parens coacta fatis gnata fert uterum grauem me patre dignum
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	ergo	ergo	CCONJ	S	_	11	cc	_	LASLAVariant=2|LiLaflcat=i
 2	ut	ut	SCONJ	T	_	6	mark	_	LASLAVariant=4|LiLaflcat=i
 3	per	per	ADP	R	AdpType=Prep	5	case	_	LiLaflcat=i
@@ -249,7 +249,7 @@
 
 # sent_id = SenAgamn-P-21-14
 # text = uersa natura est retro auo parentem pro nefas patri uirum gnatis nepotes miscui nocti diem
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	uersa	uerto	VERB	Y3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	LiLaflcat=v3
 2	natura	natura	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	1	nsubj:pass	_	LiLaflcat=n1
 3	est	sum	AUX	Z3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	LASLAVariant=2|LiLaflcat=v6
@@ -268,7 +268,7 @@
 
 # sent_id = SenAgamn-P-21-15
 # text = sed sera tandem respicit fessos malis post fata demum sortis incertae fides rex ille regum ductor Agamemnon ducum cuius secutae mille uexillum rates Iliaca uelis maria texerunt suis post decima Phoebi lustra deuicto Ilio adest daturus coniugi iugulum suae
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	sed	sed	CCONJ	S	_	4	cc	_	LiLaflcat=i
 2	sera	serus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	advcl:pred	_	LiLaflcat=n6
 3	tandem	tandem	ADV	M	Degree=Pos	4	advmod:tmod	_	LiLaflcat=i
@@ -311,7 +311,7 @@
 
 # sent_id = SenAgamn-P-21-16
 # text = iam iam natabit sanguine alterno domus enses secures tela diuisum graui ictu bipennis regium uideo caput iam scelera prope sunt iam dolus caedes cruor parantur epulae
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	iam	iam	ADV	M	Degree=Pos	3	advmod:tmod	_	LiLaflcat=i
 2	iam	iam	ADV	M	Degree=Pos	1	flat:redup	_	LiLaflcat=i
 3	natabit	nato	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
@@ -341,7 +341,7 @@
 
 # sent_id = SenAgamn-P-21-17
 # text = causa natalis tui Aegisthe uenit
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	causa	causa	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	5	nsubj	_	LiLaflcat=n1
 2	natalis	natalis	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurI|Number=Sing	1	nmod	_	LASLAVariant=1|LiLaflcat=n3
 3	tui	tuus	DET	F	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	2	det	_	LiLaflcat=n6
@@ -350,7 +350,7 @@
 
 # sent_id = SenAgamn-P-21-18
 # text = quid pudor uultus grauat
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	quid	quis	ADV	K	PronType=Int	4	advmod	_	LASLAVariant=1|LiLaflcat=p
 2	pudor	pudor	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	4	nsubj	_	LiLaflcat=n3
 3	uultus	uultus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	4	obj	_	LiLaflcat=n4
@@ -358,7 +358,7 @@
 
 # sent_id = SenAgamn-P-21-19
 # text = quid dextra dubio trepida consilio labat
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	quid	quis	ADV	K	PronType=Int	6	advmod	_	LASLAVariant=1|LiLaflcat=p
 2	dextra	dextera	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	6	nsubj	_	LiLaflcat=n1
 3	dubio	dubius	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	_	LiLaflcat=n6
@@ -368,7 +368,7 @@
 
 # sent_id = SenAgamn-P-21-20
 # text = quid ipse temet consulis torques rogas an deceat hoc te
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	quid	quis	ADV	K	PronType=Int	4	advmod	_	LASLAVariant=1|LiLaflcat=p
 2	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	4	nsubj	_	LiLaflcat=p
 3	temet	tu	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	4	obj	_	LiLaflcat=p
@@ -382,7 +382,7 @@
 
 # sent_id = SenAgamn-P-21-21
 # text = respice ad matrem decet
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	respice	respicio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v5
 2	ad	ad	ADP	R	AdpType=Prep	3	case	_	LASLAVariant=2|LiLaflcat=i
 3	matrem	mater	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	1	obl:lmod	_	LiLaflcat=n3
@@ -390,7 +390,7 @@
 
 # sent_id = SenAgamn-P-21-22
 # text = sed cur repente noctis aestiuae uices hiberna longa spatia producunt mora aut quid cadentes detinet stellas polo
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	sed	sed	CCONJ	S	_	10	cc	_	LiLaflcat=i
 2	cur	cur	ADV	O	PronType=Int	10	advmod	_	LiLaflcat=i
 3	repente	repente	ADV	M	Degree=Pos	10	advmod:tmod	_	LiLaflcat=i
@@ -411,13 +411,13 @@
 
 # sent_id = SenAgamn-P-21-23
 # text = Phoebum moramur
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	Phoebum	phoebus	PROPN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing	2	obj	_	LASLAVariant=N|LiLaflcat=n2
 2	moramur	moror	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LASLAVariant=1|LiLaflcat=v1
 
 # sent_id = SenAgamn-P-21-24
 # text = redde iam mundo diem
-# speaker = Thyestis umbra
+# speaker = Thyestis_umbra
 1	redde	reddo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 2	iam	iam	ADV	M	Degree=Pos	1	advmod:tmod	_	LiLaflcat=i
 3	mundo	mundus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	1	obl:arg	_	LASLAVariant=1|LiLaflcat=n2
@@ -2400,7 +2400,7 @@
 15	stirps	stirps	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	14	nsubj	_	LiLaflcat=n3
 16	Inachia	inachius	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	15	amod	_	LASLAVariant=A|LiLaflcat=n6
 17	tu	tu	PRON	E	Case=Nom|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	21	det	_	LiLaflcat=p
-18	quoque	quoque	ADV	M	Degree=Pos	17	advmod:emph	_	LiLaflcat=i
+18	quoque	quoque	PART	M	Form=Emp	17	advmod:emph	_	LiLaflcat=i
 19	nostros	noster	DET	F	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	23	det	_	LiLaflcat=n6
 20	Thespias	thespias	ADJ	C7	Case=Voc|Degree=Pos|Gender=Fem,Masc|InflClass=IndEurI|NameType=Geo|Number=Sing|Variant=Greek	21	amod	_	LASLAVariant=A|LiLaflcat=n7
 21	hospes	hospes	NOUN	A3	Case=Voc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	22	vocative	_	LiLaflcat=n3
@@ -2485,7 +2485,7 @@
 41	Musa	musa	PROPN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|NameType=Rel|Number=Sing	42	nsubj	_	LASLAVariant=N|LiLaflcat=n1
 42	recenset	recenseo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	advcl	_	LiLaflcat=v2
 43	licet	licet	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LASLAVariant=1|LiLaflcat=v2
-44	et	et	ADV	M	Degree=Pos	45	advmod	_	LASLAVariant=1|LiLaflcat=i
+44	et	et	ADV	M	Degree=Pos	45	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 45	chorda	chorda	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	47	obl	_	LiLaflcat=n1
 46	grauiore	grauis	ADJ	C4	Case=Abl|Degree=Cmp|Gender=Fem|InflClass=IndEurX|Number=Sing	45	amod	_	LiLaflcat=n7
 47	sones	sono	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	43	csubj	_	LASLAVariant=1|LiLaflcat=v1
@@ -3518,7 +3518,7 @@
 10	caelo	caelum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	12	obl	_	LASLAVariant=1|LiLaflcat=n2
 11	deos	deus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	12	nsubj	_	LiLaflcat=n2
 12	decidere	decido	VERB	B3	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	2	conj	_	LASLAVariant=1|LiLaflcat=v3
-13	et	et	CCONJ	S	_	16	amod	_	LASLAVariant=2|LiLaflcat=i
+13	et	et	CCONJ	S	_	16	cc	_	LASLAVariant=2|LiLaflcat=i
 14	atrum	ater	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	17	amod	_	LiLaflcat=n6
 15	rebus	res	NOUN	A5	Case=Dat|Gender=Fem|InflClass=IndEurE|Number=Plur	16	obl	_	LiLaflcat=n5
 16	induci	induco	VERB	B3	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	2	conj	_	LiLaflcat=v3
@@ -3823,7 +3823,7 @@
 
 # sent_id = SenAgamn-P-21-199
 # text = sistito infestum mare uehit ista Danaos classis et Troas uehit nec plura possunt occupat uocem mare
-# speaker = Danai (token 1-10), Eurybates (token 11-16)
+# speaker = Danai (Eurybates) (token 1-10), Eurybates (token 11-16)
 1	sistito	sisto	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 2	infestum	infestus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	_	LiLaflcat=n6
 3	mare	mare	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	1	obj	_	LiLaflcat=n3
@@ -3831,7 +3831,7 @@
 5	ista	iste	DET	I	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	7	det	_	LiLaflcat=p
 6	Danaos	danai	PROPN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	4	obj	_	LASLAVariant=N|LiLaflcat=n2
 7	classis	classis	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	4	nsubj	_	LiLaflcat=n3
-8	et	et	ADV	M	Degree=Pos	10	cc	_	LASLAVariant=1|LiLaflcat=i
+8	et	et	ADV	M	Degree=Pos	10	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 9	Troas	troes	PROPN	A7	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|NameType=Nat|Number=Plur|Variant=Greek	10	obj	_	LASLAVariant=N|LiLaflcat=n3
 10	uehit	ueho	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LiLaflcat=v3
 11	nec	nec	CCONJ	S	Polarity=Neg	13	cc	_	LASLAVariant=2|LiLaflcat=i
@@ -3970,7 +3970,7 @@
 
 # sent_id = SenAgamn-P-21-207
 # text = tandem occupata rupe furibundum intonat superasse cuncta pelagus atque ignes iuuat uicisse caelum Palladem fulmen mare
-# speaker = Eurybates (token 1-5), Aiax (token 6-16)
+# speaker = Eurybates (token 1-5), Aiax (Eurybates) (token 6-16)
 1	tandem	tandem	ADV	M	Degree=Pos	2	advmod:tmod	_	LiLaflcat=i
 2	occupata	occupo	VERB	B1	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	5	advcl:abs	_	LASLAVariant=2|LiLaflcat=v1
 3	rupe	rupes	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	2	nsubj:pass	_	LiLaflcat=n3
@@ -3981,7 +3981,7 @@
 8	pelagus	pelagus	NOUN	A6	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	7	conj:expl	_	LiLaflcat=n2
 9	atque	atque	CCONJ	S	_	10	cc	_	LASLAVariant=1|LiLaflcat=i
 10	ignes	ignis	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Plur	8	conj	_	LiLaflcat=n3
-11	iuuat	iuuo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis:reporting	_	LiLaflcat=v1
+11	iuuat	iuuo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp:reported	_	LiLaflcat=v1
 12	uicisse	uinco	VERB	B3	Aspect=Perf|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	6	conj	_	LiLaflcat=v3
 13	caelum	caelum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	12	obj	_	LASLAVariant=1|LiLaflcat=n2
 14	Palladem	pallas	PROPN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|NameType=Rel|Number=Sing	13	conj	_	LASLAVariant=N|LiLaflcat=n3
@@ -5632,7 +5632,7 @@
 # text = festus et Troiae fuit
 # speaker = Cassandra
 1	festus	festus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6
-2	et	et	ADV	M	Degree=Pos	3	advmod	_	LASLAVariant=1|LiLaflcat=i
+2	et	et	ADV	M	Degree=Pos	3	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 3	Troiae	troia	PROPN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	1	obl	_	LASLAVariant=N|LiLaflcat=n1
 4	fuit	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
 
@@ -6464,7 +6464,7 @@
 # text = fuge o paternae mortis auxilium unicum fuge et scelestas hostium uita manus
 # speaker = Electra
 1	fuge	fugio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v5
-2	o	o	PART	U	PartType=Emp	5	discourse	_	LiLaflcat=i
+2	o	o	PART	U	PartType=Emp	5	advmod:emph	_	LiLaflcat=i
 3	paternae	paternus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	_	LiLaflcat=n6
 4	mortis	mors	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing	5	nmod	_	LiLaflcat=n3
 5	auxilium	auxilium	NOUN	A2	Case=Voc|Gender=Neut|InflClass=IndEurO|Number=Sing	1	vocative	_	LiLaflcat=n2
@@ -6624,7 +6624,7 @@
 # sent_id = SenAgamn-P-21-352
 # text = o nulla longi temporis felicitas
 # speaker = Strophius
-1	o	o	PART	U	PartType=Emp	5	discourse	_	LiLaflcat=i
+1	o	o	PART	U	PartType=Emp	5	advmod:emph	_	LiLaflcat=i
 2	nulla	nullus	DET	L	Case=Voc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Neg	5	det	_	LiLaflcat=p
 3	longi	longus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	4	amod	_	LiLaflcat=n6
 4	temporis	tempus	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	5	nmod	_	LASLAVariant=1|LiLaflcat=n3
@@ -6658,7 +6658,7 @@
 # text = etsi timendum caesus Agamemnon docet aggrediar et te Oresta furabor libens
 # speaker = Strophius
 1-2	etsi	_	_	_	_	_	_	_	_
-1	et	et	ADV	M	_	6	advmod	_	LASLAVariant=2|LiLaflcat=i
+1	et	et	ADV	M	_	6	advmod:emph	_	LASLAVariant=2|LiLaflcat=i
 2	si	si	SCONJ	T	_	6	mark	_	LASLAVariant=2|LiLaflcat=i
 3	timendum	timeo	VERB	B2	Aspect=Prosp|Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Gdv|Voice=Pass	6	xcomp	_	LiLaflcat=v2
 4	caesus	caedo	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	5	acl	_	LiLaflcat=v3

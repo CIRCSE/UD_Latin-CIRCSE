@@ -7,7 +7,7 @@
 5-6	Raetisque	_	_	_	_	_	_	_	_
 5	Raetis	raetius	ADJ	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	4	conj	_	LASLAVariant=N|LiLaflcat=n2
 6	que	que	CCONJ	S	_	5	cc	_	LiLaflcat=i
-7	et	et	CCONJ	S	_	8	obl	_	LASLAVariant=2|LiLaflcat=i
+7	et	et	CCONJ	S	_	8	cc	_	LASLAVariant=2|LiLaflcat=i
 8	Pannoniis	pannonius	ADJ	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	4	conj	_	LASLAVariant=N|LiLaflcat=n2
 9	Rheno	rhenus	PROPN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|NameType=Geo|Number=Sing	1	orphan	_	LASLAVariant=N|LiLaflcat=n2
 10	et	et	CCONJ	S	_	11	cc	_	LASLAVariant=2|LiLaflcat=i
