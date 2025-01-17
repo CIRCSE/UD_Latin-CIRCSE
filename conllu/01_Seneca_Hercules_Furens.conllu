@@ -1501,7 +1501,7 @@
 # sent_id = SenHerFu-P-15-70
 # text = Maenali pernix fera multo decorum praeferens auro caput deprensa cursu maximus Nemeae timor pressus lacertis gemuit Herculeis leo
 # speaker = Amphitryon
-# token_id = 9 (deprensa) deprensa (est) [s. Fitch 1987 ad l; Billerbeck 1999 ad l.] Fitch, J. G. (1987). Seneca’s Hercules Furens. Ithaca (N.Y.): Cornell University Press. Billerbeck, M. (1999). Hercules furens. Leiden: Brill.
+# token_id = 9 (deprensa) deprensa (est) [s. Fitch 1987 ad l.; Billerbeck 1999 ad l.] Fitch, J. G. (1987). Seneca’s Hercules Furens. Ithaca (N.Y.): Cornell University Press. Billerbeck, M. (1999). Hercules furens. Leiden: Brill.
 1	Maenali	maenalus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Geo|Number=Sing	3	nmod	_	LASLAVariant=N|LiLaflcat=n2
 2	pernix	pernix	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	3	amod	_	LiLaflcat=n7
 3	fera	fera	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	9	nsubj:pass	_	LiLaflcat=n1
