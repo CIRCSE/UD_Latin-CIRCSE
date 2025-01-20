@@ -4312,7 +4312,7 @@
 
 # sent_id = SenAgamn-P-21-223
 # text = heu quam dulce malum mortalibus additum uitae dirus amor cum pateat malis effugium et miseros libera mors uocet portus aeterna placidus quiete
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	heu	heu	INTJ	U	_	6	discourse	_	LiLaflcat=i
 2	quam	quam	ADV	O	PronType=Int	3	advmod	_	LASLAVariant=2|LiLaflcat=i
 3	dulce	dulcis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	4	amod	_	LiLaflcat=n7
@@ -4338,7 +4338,7 @@
 
 # sent_id = SenAgamn-P-21-224
 # text = nullus hunc terror nec impotentis procella Fortunae mouet aut iniqui flamma Tonantis
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	nullus	nullus	DET	L	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Neg	3	det	_	LiLaflcat=p
 2	hunc	hic	DET	I	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	8	obj	_	LASLAVariant=1|LiLaflcat=p
 3	terror	terror	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	8	nsubj	_	LiLaflcat=n3
@@ -4354,7 +4354,7 @@
 
 # sent_id = SenAgamn-P-21-225
 # text = perrumpet omne seruitium contemptor leuium deorum qui uultus Acherontis atri qui Styga tristem non tristis uidet audetque uitae ponere finem
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	perrumpet	perrumpo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 2	omne	omnis	DET	L	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing|PronType=Tot	3	det	_	LiLaflcat=n7
 3	seruitium	seruitium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	1	obj	_	LiLaflcat=n2
@@ -4380,7 +4380,7 @@
 
 # sent_id = SenAgamn-P-21-226
 # text = alta pax nullos ciuium coetus timet aut minaces uictoris iras non maria asperis insana coris non acies feras puluereamue nubem motam barbaricis equitum cateruis non urbe cum tota populos cadentes hostica muros populante flamma indomitumue bellum par ille regi par superis erit
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	alta	altus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	2	amod	_	LiLaflcat=n6
 2	pax	pax	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nsubj	_	LiLaflcat=n3
 3	nullos	nullus	DET	L	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Neg	5	det	_	LiLaflcat=p
@@ -4430,7 +4430,7 @@
 
 # sent_id = SenAgamn-P-21-227
 # text = o quam miserum est nescire mori
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	o	o	PART	U	PartType=Emp	3	advmod:emph	_	LiLaflcat=i
 2	quam	quam	ADV	O	PronType=Int	3	advmod	_	LASLAVariant=2|LiLaflcat=i
 3	miserum	miser	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6
@@ -4440,7 +4440,7 @@
 
 # sent_id = SenAgamn-P-21-228
 # text = uidimus patriam ruentem nocte funesta cum Dardana tecta Dorici raperetis ignes
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	uidimus	uideo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 2	patriam	patria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	1	obj	_	LiLaflcat=n1
 3	ruentem	ruo	VERB	B3	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	2	acl	_	LiLaflcat=v3
@@ -4455,7 +4455,7 @@
 
 # sent_id = SenAgamn-P-21-229
 # text = non illa bello uicta non armis ut quondam Herculea cecidit pharetra
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	non	non	PART	P	Polarity=Neg	3	advmod:neg	_	LiLaflcat=i
 2	illa	ille	DET	I	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	4	nsubj:pass	_	LiLaflcat=p
 3	bello	bellum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl	_	LiLaflcat=n2
@@ -4470,7 +4470,7 @@
 
 # sent_id = SenAgamn-P-21-230
 # text = quam non Pelei Thetidisque natus carusque Pelidae nimium feroci uicit acceptis cum fulsit armis fuditque Troas falsus Achilles aut cum ipse Pelides animos feroces sustulit luctu celeremque saltu Troades summis timuere muris perdidit in malis extremum decus fortiter uinci restitit quinis bis annis unius noctis peritura furto
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	quam	qui	PRON	J	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	12	obj	_	LASLAVariant=1|LiLaflcat=p
 2	non	non	PART	P	Polarity=Neg	12	advmod:neg	_	LiLaflcat=i
 3	Pelei	peleus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	6	nmod	_	LASLAVariant=N|LiLaflcat=n2
@@ -4529,7 +4529,7 @@
 
 # sent_id = SenAgamn-P-21-231
 # text = uidimus simulata dona molis immensae Danaumque fatale munus duximus nostra creduli dextra tremuitque saepe limine in primo sonipes cauernis conditos reges bellumque gestans et licuit dolos uersare ut ipsi fraude sua caderent Pelasgi
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	uidimus	uideo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 2	simulata	simulo	VERB	B1	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	3	acl	_	LiLaflcat=v1
 3	dona	donum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	1	obj	_	LiLaflcat=n2
@@ -4572,7 +4572,7 @@
 
 # sent_id = SenAgamn-P-21-232
 # text = saepe commotae sonuere parmae tacitumque murmur percussit aures ut fremuit male subdolo parens Pyrrhus Ulixi
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	saepe	saepe	ADV	M	Degree=Pos	3	advmod:tmod	_	LiLaflcat=i
 2	commotae	commoueo	VERB	B2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatE|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass	4	acl	_	LiLaflcat=v2
 3	sonuere	sono	VERB	B1	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v1
@@ -4593,7 +4593,7 @@
 
 # sent_id = SenAgamn-P-21-233
 # text = secura metus Troica pubes sacros gaudet tangere funes
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	secura	securus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	6	advcl:pred	_	LiLaflcat=n6
 2	metus	metus	NOUN	A4	Case=Gen|Gender=Masc|InflClass=IndEurU|Number=Sing	1	nmod	_	LiLaflcat=n4
 3	Troica	troicus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|NameType=Nat|Number=Sing	4	amod	_	LASLAVariant=A|LiLaflcat=n6
@@ -4605,7 +4605,7 @@
 
 # sent_id = SenAgamn-P-21-234
 # text = hinc aequaeui gregis Astyanax hinc Haemonio desponsa rogo ducunt turmas haec femineas ille uiriles
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	hinc	hinc	ADV	M	Degree=Pos	4	advmod:lmod	_	LiLaflcat=i
 2	aequaeui	aequaeuus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	amod	_	LiLaflcat=n6
 3	gregis	grex	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	10	nmod	_	LiLaflcat=n3
@@ -4623,7 +4623,7 @@
 
 # sent_id = SenAgamn-P-21-235
 # text = festae matres uotiua ferunt munera diuis festi patres adeunt aras unus tota est uultus in urbe et quod numquam post Hectoreos uidimus ignes laeta est Hecuba
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	festae	festus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	2	amod	_	LiLaflcat=n6
 2	matres	mater	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur	4	nsubj	_	LiLaflcat=n3
 3	uotiua	uotiuus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	5	amod	_	LiLaflcat=n6
@@ -4653,7 +4653,7 @@
 
 # sent_id = SenAgamn-P-21-236
 # text = quid nunc primum dolor infelix quidue extremum deflere paras
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	quid	quis	PRON	K	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	10	obj	_	LASLAVariant=1|LiLaflcat=p
 2	nunc	nunc	ADV	M	Degree=Pos	10	advmod:tmod	_	LiLaflcat=i
 3	primum	primus	ADJ	D2	Case=Acc|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Ord	10	advcl:pred	_	LiLaflcat=n6
@@ -4668,7 +4668,7 @@
 
 # sent_id = SenAgamn-P-21-237
 # text = moenia diuum fabricata manu diruta nostra
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	moenia	moenia	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Plur	5	nsubj:pass	_	LiLaflcat=n3
 2	diuum	diuus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	4	nmod	_	LASLAVariant=1|LiLaflcat=n2
 3	fabricata	fabrico	VERB	B1	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	1	acl	_	LiLaflcat=v1
@@ -4678,7 +4678,7 @@
 
 # sent_id = SenAgamn-P-21-238
 # text = an templa deos super usta suos
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	an	an	PART	O	PartType=Int|Polarity=Neg	5	cc	_	LiLaflcat=i
 2	templa	templum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	5	nsubj	_	LiLaflcat=n2
 3	deos	deus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	5	obl:lmod	_	LiLaflcat=n2
@@ -4688,7 +4688,7 @@
 
 # sent_id = SenAgamn-P-21-239
 # text = non uacat istis lacrimare malis te magne parens flent Iliades
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	non	non	PART	P	Polarity=Neg	2	advmod:neg	_	LiLaflcat=i
 2	uacat	uaco	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
 3	istis	iste	DET	I	Case=Dat|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem	5	det	_	LiLaflcat=p
@@ -4702,7 +4702,7 @@
 
 # sent_id = SenAgamn-P-21-240
 # text = uidi uidi senis in iugulo telum Pyrrhi uix exiguo sanguine tingui
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	uidi	uideo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 2	uidi	uideo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	flat:redup	_	LiLaflcat=v2
 3	senis	senex	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	5	nmod	_	LASLAVariant=1|LiLaflcat=n3
@@ -4755,7 +4755,7 @@
 
 # sent_id = SenAgamn-P-21-244
 # text = lacrimas lacrimis miscere iuuat magis exurunt quos secretae lacerant curae iuuat in medium deflere suos nec tu quamuis dura uirago patiensque mali poteris tantas flere ruinas
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	lacrimas	lacrima	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	3	obj	_	LiLaflcat=n1
 2	lacrimis	lacrima	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	3	obl	_	LiLaflcat=n1
 3	miscere	misceo	VERB	B2	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	4	csubj	_	LiLaflcat=v2
@@ -4787,7 +4787,7 @@
 
 # sent_id = SenAgamn-P-21-245
 # text = non quae uerno mobile carmen ramo cantat tristis aedon Ityn in uarios modulata sonos non quae tectis Bistonis ales residens summis impia diri furta mariti garrula narrat lugere tuam poterit digne conquesta domum
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	non	non	PART	P	Polarity=Neg	2	advmod:neg	_	LiLaflcat=i
 2	quae	qui	PRON	J	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	7	nsubj	_	LASLAVariant=1|LiLaflcat=p
 3	uerno	uernus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	_	LiLaflcat=n6
@@ -4824,7 +4824,7 @@
 
 # sent_id = SenAgamn-P-21-246
 # text = licet ipse uelit clarus niueos inter olores Histrum cycnus Tanainque colens extrema loqui licet alcyones Ceyca suum fluctu leuiter plangente sonent cum tranquillo male confisae credunt iterum pelago audaces fetusque suos nido pauidae titubante fouent non si molles comitata uiros tristis laceret bracchia tecum quae turritae turba parenti pectora rauco concita buxo ferit ut Phrygium lugeat Attin non est lacrimis Cassandra modus quia quae patimur uicere modum
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	licet	licet	SCONJ	T	_	3	mark	_	LASLAVariant=3|LiLaflcat=i
 2	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	9	det	_	LiLaflcat=p
 3	uelit	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	65	advcl	_	LASLAVariant=3|LiLaflcat=v6
@@ -4901,7 +4901,7 @@
 
 # sent_id = SenAgamn-P-21-247
 # text = sed cur sacratas deripis capiti infulas
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	sed	sed	CCONJ	S	_	4	cc	_	LiLaflcat=i
 2	cur	cur	ADV	O	PronType=Int	4	advmod	_	LiLaflcat=i
 3	sacratas	sacratus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	6	amod	_	LiLaflcat=n6
@@ -4911,7 +4911,7 @@
 
 # sent_id = SenAgamn-P-21-248
 # text = miseris colendos maxime superos putem
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	miseris	miser	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur	2	obl	_	LiLaflcat=n6
 2	colendos	colo	VERB	B3	Aspect=Prosp|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Gdv|Voice=Pass	5	ccomp	_	LASLAVariant=2|LiLaflcat=v3
 3	maxime	magis	ADV	M	Degree=Abs	2	advmod	_	LASLAVariant=2|LiLaflcat=i
@@ -5042,7 +5042,7 @@
 
 # sent_id = SenAgamn-P-21-257
 # text = silet repente Phoebas et pallor genas creberque totum possidet corpus tremor stetere uittae mollis horrescit coma anhela corda murmure incluso fremunt incerta nutant lumina et uersi retro torquentur oculi rursus immoti rigent
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	silet	sileo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 2	repente	repente	ADV	M	Degree=Pos	1	advmod	_	LiLaflcat=i
 3	Phoebas	phoebas	PROPN	A7	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing|Variant=Greek	1	nsubj	_	LASLAVariant=N|LiLaflcat=n3
@@ -5080,7 +5080,7 @@
 
 # sent_id = SenAgamn-P-21-258
 # text = nunc leuat in auras altior solito caput graditurque celsa nunc reluctantis parat reserare fauces uerba nunc clauso male custodit ore maenas impatiens dei
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	nunc	nunc	ADV	M	Degree=Pos	2	advmod:tmod	_	LiLaflcat=i
 2	leuat	leuo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v1
 3	in	in	ADP	R	AdpType=Prep	4	case	_	LiLaflcat=i
@@ -5492,7 +5492,7 @@
 
 # sent_id = SenAgamn-P-21-281
 # text = iam peruagatus ipse se fregit furor caditque flexo qualis ante aras genu ceruice taurus uulnus incertum gerens
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	iam	iam	ADV	M	Degree=Pos	5	advmod:tmod	_	LiLaflcat=i
 2	peruagatus	peruagor	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	LASLAVariant=2|LiLaflcat=v1
 3	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	6	det	_	LiLaflcat=p
@@ -5515,13 +5515,13 @@
 
 # sent_id = SenAgamn-P-21-282
 # text = releuemus artus
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	releuemus	releuo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v1
 2	artus	artus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	1	obj	_	LASLAVariant=1|LiLaflcat=n4
 
 # sent_id = SenAgamn-P-21-283
 # text = en deos tandem suos uictrice lauru cinctus Agamemnon adit et festa coniunx obuios illi tulit gressus reditque iuncta concordi gradu
-# speaker = Chorus
+# speaker = Chorus_Iliadum
 1	en	en	INTJ	U	_	9	discourse	_	LiLaflcat=i
 2	deos	deus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	9	obj	_	LiLaflcat=n2
 3	tandem	tandem	ADV	M	Degree=Pos	9	advmod:tmod	_	LiLaflcat=i
