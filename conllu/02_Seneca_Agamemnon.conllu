@@ -2003,7 +2003,7 @@
 # text = ignota tibi sunt iura regnorum aut noua
 # speaker = Aegisthus
 1	ignota	ignotus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	_	LiLaflcat=n6
-2	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	1	obl	_	LiLaflcat=p
+2	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	1	obl:arg	_	LiLaflcat=p
 3	sunt	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
 4	iura	ius	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur	1	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 5	regnorum	regnum	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	4	nmod	_	LiLaflcat=n2
@@ -6286,7 +6286,7 @@
 2	uinctum	uincio	VERB	B4	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=LatI|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	4	obj	_	LiLaflcat=v4
 3	perfide	perfide	ADV	M	Degree=Pos	4	advmod	_	LiLaflcat=i
 4	tradit	trado	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-5	neci	nex	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obl	_	LiLaflcat=n3
+5	neci	nex	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obl:arg	_	LiLaflcat=n3
 6	induta	induo	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	7	acl	_	LiLaflcat=v3
 7	uestis	uestis	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	4	nsubj	_	LiLaflcat=n3
 8	exitum	exitus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing	10	obj	_	LiLaflcat=n4

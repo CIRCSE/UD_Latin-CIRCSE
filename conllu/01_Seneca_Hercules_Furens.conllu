@@ -1054,7 +1054,7 @@
 6	que	que	CCONJ	S	_	10	cc	_	LiLaflcat=i
 7	nouo	nouus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	9	amod	_	LiLaflcat=n6
 8	tradere	trado	VERB	B3	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	10	xcomp	_	LiLaflcat=v3
-9	soli	sol	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	8	obl	_	LiLaflcat=n3
+9	soli	sol	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	8	obl:arg	_	LiLaflcat=n3
 10	gestit	gestio	VERB	B4	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LASLAVariant=2|LiLaflcat=v4
 11	querulos	querulus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	13	amod	_	LiLaflcat=n6
 12	inter	inter	ADP	R	AdpType=Prep	13	case	_	LiLaflcat=i
@@ -3147,7 +3147,7 @@
 3	famulus	famulus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj	_	LASLAVariant=1|LiLaflcat=n2
 4	tradidit	trado	VERB	B3	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 5	reges	rex	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	4	obj	_	LiLaflcat=n3
-6	neci	nex	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obl	_	LiLaflcat=n3
+6	neci	nex	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obl:arg	_	LiLaflcat=n3
 
 # sent_id = SenHerFu-P-15-158
 # text = cur ergo regi seruit et patitur iugum
