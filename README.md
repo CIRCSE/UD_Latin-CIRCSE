@@ -64,7 +64,7 @@ In cases of reported speech, the character who utters the reported speech is lis
 *Germania* is a treatise written by Cornelius Tacitus between 1st and 2nd century CE.
 The text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the Opera Latina corpus built by the [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
 The syntactic annotation was performed manually, and follows the UD scheme.
-The text consists of 5674 tokens, 299 sentences.
+The text consists of 5674 tokens, 296 sentences.
 
 In few cases, the sentence splitting differs from the [received one](http://github.com/CIRCSE/LASLA); deviations from the received annotation are detailed in the file [Tacitus_Ger_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/Tacitus_Germania_LASLA_CIRCSE.md).
 
