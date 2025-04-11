@@ -9,7 +9,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-18-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -17,7 +17,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-35-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -25,7 +25,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-36-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -41,7 +41,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-38-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -49,7 +49,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-40-7 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -57,7 +57,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-40-10 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -73,7 +73,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-76-10 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -82,6 +82,14 @@ token_id: Latin_SenecaYounger_Ag_poetry-82-1 (uictrix)
 LASLA: FEATS Gender=Neut
 
 CIRCSE: FEATS Gender=Fem
+
+
+
+token_id: Latin_SenecaYounger_Ag_poetry-82-43 (fas)
+
+LASLA: FEATS Gender=Fem,Masc (following Glare 1968) Glare , P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+CIRCSE: FEATS Gender=Neut
 
 
 
@@ -97,7 +105,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-86-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -105,7 +113,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-87-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -121,7 +129,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-102-2 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -129,7 +137,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-105-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -137,7 +145,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-123-6 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -145,13 +153,17 @@ token_id: Latin_SenecaYounger_Ag_poetry-124-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+
 
 token_id: Latin_SenecaYounger_Ag_poetry-125-1 (scilicet)
 
 LASLA: CCONJ
 
 CIRCSE: ADV
+
+
 
 token_id: Latin_SenecaYounger_Ag_poetry-130-1 (quid)
 
@@ -213,7 +225,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-183-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -269,7 +281,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-18-254 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -278,6 +290,14 @@ token_id: Latin_SenecaYounger_Ag_poetry-255-2 (nempe)
 LASLA: ADV
 
 CIRCSE: PART
+
+
+
+token_id: Latin_SenecaYounger_Ag_poetry-256-1 (fas)
+
+LASLA: FEATS Gender=Fem,Masc (following Glare 1968) Glare , P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+CIRCSE: FEATS Gender=Neut
 
 
 
@@ -293,7 +313,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-259-1; 7 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -309,7 +329,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-263-5 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -317,7 +337,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-269-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -325,7 +345,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-273-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -357,7 +377,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-286-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -378,7 +398,7 @@ token_id: Latin_SenecaYounger_Ag_poetry-342-1 (quid)
 
 LASLA: PRON
 
-CIRCSE: ADV
+CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 token_id: Latin_SenecaYounger_Ag_poetry-352-1 (o)

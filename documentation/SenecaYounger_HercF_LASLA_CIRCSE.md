@@ -23,6 +23,20 @@ LASLA: UPOS ADJ
 CIRCSE: UPOS DET
 
 
+token\_id: Latin_SenecaYounger_HercF_poetry-72-18 (cithaeron)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+
+token_id: Latin_SenecaYounger_HercF_poetry-91-6 (tantum)
+
+LASLA: UPOS PRON
+
+CIRCSE: UPOS DET
+
+
 token_id: Latin_SenecaYounger_HercF_poetry-91-8 (quantum)
 
 LASLA: UPOS PRON
@@ -41,7 +55,7 @@ token_id: Latin_SenecaYounger_HercF_poetry-168-1 (quid)
 
 LASLA: UPOS PRON
 
-CIRCSE: UPOS ADV
+CIRCSE: UPOS ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 token_id: Latin_SenecaYounger_HercF_poetry-170-3 (pluribus)
@@ -138,6 +152,12 @@ LASLA: UPOS SCONJ
 CIRCSE: UPOS ADV
 
 
+token\_id: Latin_SenecaYounger_HercF_poetry-366-2 (cithaeron)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
 
 token_id: Latin_SenecaYounger_HercF_poetry-417-10 (qua)
 
@@ -151,7 +171,7 @@ token_id: Latin_SenecaYounger_HercF_poetry-454-1 (quid)
 
 LASLA: UPOS PRON
 
-CIRCSE: UPOS ADV
+CIRCSE: UPOS ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
