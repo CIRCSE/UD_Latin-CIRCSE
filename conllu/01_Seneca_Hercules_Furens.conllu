@@ -2798,7 +2798,7 @@
 # sent_id = SenHerFu-P-15-131
 # text = quin ipse toruum subrigens crista caput Illyrica Cadmus regna permensus fuga longas reliquit corporis tracti notas
 # speaker = Megara
-1	quin	quin	ADV	M	Degree=Pos	13	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
+1	quin	quin	PART	M	Degree=Pos	13	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 2	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	8	det	_	LiLaflcat=p
 3	toruum	toruus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	6	amod	_	LiLaflcat=n6
 4	subrigens	subrigo	VERB	B3	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	8	advcl	_	LiLaflcat=v3
@@ -9044,7 +9044,7 @@
 # sent_id = SenHerFu-P-15-486
 # text = quin structum aceruans nemore congesto aggerem cruore corpus impio sparsum cremo
 # speaker = Hercules
-1	quin	quin	ADV	M	Degree=Pos	11	advmod	_	LASLAVariant=1|LiLaflcat=i
+1	quin	quin	PART	M	Degree=Pos	11	advmod	_	LASLAVariant=1|LiLaflcat=i
 2	structum	struo	VERB	B3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	LiLaflcat=v3
 3	aceruans	aceruo	VERB	B1	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	11	advcl:pred	_	LiLaflcat=v1
 4	nemore	nemus	NOUN	A3	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	2	obl:agent	_	LiLaflcat=n3
