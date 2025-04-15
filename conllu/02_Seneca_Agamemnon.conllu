@@ -2951,7 +2951,7 @@
 # sent_id = SenAgamn-P-21-161
 # text = quin ipse Atrides aequore immenso uagus grauiora pelago damna quam bello tulit remeatque uicto similis exiguas trahens lacerasque uictor classe de tanta rates
 # speaker = Eurybates
-1	quin	quin	PART	M	Degree=Pos	12	advmod	_	LASLAVariant=1|LiLaflcat=i
+1	quin	quin	PART	M	Polarity=Neg|PronType=Rel	12	advmod	_	LASLAVariant=1|LiLaflcat=i
 2	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	3	det	_	LiLaflcat=p
 3	Atrides	atrides	PROPN	A7	Case=Nom|Gender=Masc|InflClass=IndEurX|NameType=Giv|Number=Sing|Variant=Greek	12	nsubj	_	LASLAVariant=N|LiLaflcat=n3
 4	aequore	aequor	NOUN	A3	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	6	obl:lmod	_	LiLaflcat=n3
@@ -7319,7 +7319,7 @@
 1	nihil	nihil	PRON	L	InflClass=Ind|PronType=Neg	2	obj	_	LiLaflcat=n
 2	moramur	moror	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LASLAVariant=1|LiLaflcat=v1
 3	rapite	rapio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LiLaflcat=v5
-4	quin	quin	PART	M	Degree=Pos	6	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
+4	quin	quin	PART	M	Polarity=Neg|PronType=Rel	6	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 5	grates	grates	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur	6	obj	_	LiLaflcat=n3
 6	ago	ago	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LiLaflcat=v3
 

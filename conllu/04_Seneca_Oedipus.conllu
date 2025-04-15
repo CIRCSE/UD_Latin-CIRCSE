@@ -438,7 +438,7 @@
 # sent_id = SenOedip-P-20-23
 # text = quin ipsa tanti peruicax clades mali siccauit oculos quodque in extremis solet periere lacrimae portat hunc aeger parens supremum ad ignem mater hunc amens gerit properatque ut alium repetat in eundem rogum
 # speaker = Oedipus
-1	quin	quin	PART	M	Degree=Pos	7	advmod	_	LASLAVariant=1|LiLaflcat=i
+1	quin	quin	PART	M	Polarity=Neg|PronType=Rel	7	advmod	_	LASLAVariant=1|LiLaflcat=i
 2	ipsa	ipse	DET	I	Case=Nom|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	5	det	_	LiLaflcat=p
 3	tanti	tantus	DET	I	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing|PronType=Dem	6	det	_	LiLaflcat=n6
 4	peruicax	peruicax	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	5	amod	_	LiLaflcat=n7
@@ -478,7 +478,7 @@
 # sent_id = SenOedip-P-20-24
 # text = quin luctu in ipso luctus exoritur nouus nouaeque circa funus exsequiae cadunt
 # speaker = Oedipus
-1	quin	quin	PART	M	Degree=Pos	6	advmod	_	LASLAVariant=1|LiLaflcat=i
+1	quin	quin	PART	M	Polarity=Neg|PronType=Rel	6	advmod	_	LASLAVariant=1|LiLaflcat=i
 2	luctu	luctus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	6	obl:lmod	_	LiLaflcat=n4
 3	in	in	ADP	R	AdpType=Prep	2	case	_	LiLaflcat=i
 4	ipso	ipse	DET	I	Case=Abl|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	2	det	_	LiLaflcat=p
@@ -1175,7 +1175,7 @@
 # text = quin Taenarii uincula ferri rupisse canem fama et nostris errare locis mugisse solum uaga per lucos simulacra uirum maiora uiris bis Cadmeum niue discussa tremuisse nemus bis turbatam sanguine Dircen nocte silenti Amphionios ululasse canes
 # speaker = Chorus
 # token_id = 32-33 corrupted or incomplete (suspected lacuna after 32) [s. Zwierlein 1978: 153] Zwierlein, O. (1978).
-1	quin	quin	PART	M	Degree=Pos	7	advmod	_	LASLAVariant=1|LiLaflcat=i
+1	quin	quin	PART	M	Polarity=Neg|PronType=Rel	7	advmod	_	LASLAVariant=1|LiLaflcat=i
 2	Taenarii	taenarius	ADJ	C1	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurO|NameType=Geo|Number=Sing	4	amod	_	LASLAVariant=A|LiLaflcat=n6
 3	uincula	uinculum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	5	obj	_	LiLaflcat=n2
 4	ferri	ferrum	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	_	LiLaflcat=n2
