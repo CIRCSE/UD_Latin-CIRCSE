@@ -4738,7 +4738,7 @@
 
 # sent_id = SenOedip-P-20-202
 # text = suadeam hoc illis ego in utrumque quis est liber etiamnum status tibi iam necesse est ferre fortunam tuam
-# spraker = Creon
+# speaker = Creon
 1	suadeam	suadeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 2	hoc	hic	DET	I	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	1	obj	_	LASLAVariant=1|LiLaflcat=p
 3	illis	ille	DET	I	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem	6	obl	_	LiLaflcat=p
