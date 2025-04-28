@@ -97,15 +97,44 @@ class SpeakerSpeech:
                     source = mapping[token["head"]]
                     target = str(token["id"])+ "_"+token["form"]
                     G.add_edge(source, target)
-        if nx.is_tree(G):
+                elif token["head"] not in mapping and token["head"] != 0: 
+                    source = "external_node_"+str(token["head"])
+                    target = str(token["id"])+ "_"+token["form"]
+                    G.add_edge(source, target)
+        UG = G.to_undirected()
+        # extract subgraphs
+        sub_graphs = nx.connected_components(UG)
+        numberOfGraph = sum(1 for x in sub_graphs)
+
+        if numberOfGraph > 1 :
+            #print("******** multigraph ********")
+            sub_graphs = nx.connected_components(UG)
+          
             theTree = ""
             f = io.StringIO("")
             nx.write_network_text(G,path=f)   
             theTree =f.getvalue()
             f.close()
-            return len(nx.dag_longest_path(G))-1,theTree
+
+            maxDepth = 0
+            for i, sg in enumerate(sub_graphs):
+                dg = G.subgraph(sg)
+ 
+                len(nx.dag_longest_path(dg))-1
+                if len(nx.dag_longest_path(dg))-1 > maxDepth: 
+                    maxDepth = len(nx.dag_longest_path(dg))-1
+
+            return maxDepth,theTree
         else:
-            return None
+            if nx.is_tree(G):
+                theTree = ""
+                f = io.StringIO("")
+                nx.write_network_text(G,path=f)   
+                theTree =f.getvalue()
+                f.close()
+                return len(nx.dag_longest_path(G))-1,theTree
+            else:
+                return None
 
 
     

@@ -59,44 +59,7 @@ def assignATokenToSpeakerNew(speakerList,token):
     
   
 
-def elemetAnalyzer(stringa):
-    speaker =""
-    otherElement = ""
-    if "(" in stringa:
-        stringElements = stringa.split("(")
-        speaker = stringElements[0].strip()
-        otherElement = stringElements[1].replace(")","").strip()
-        if "token" in otherElement.lower():
-            otherElement = otherElement.lower().replace("token","").strip()
-        else:
-            otherElement = otherElement.strip()
-
-    return speaker,otherElement
-        
-
-
-
-SINGLE_INDENT ="* "
-DOUBLE_INDENT ="   * "
-TRIPLE_INDENT ="      * "
-QUAD_INDENT ="         * "
-QUAD_TAB ="         "
-
-#aFile = "/Users/giovannimoretti/Downloads/UD_Latin-CIRCSE-main/conllu/01_Seneca_Hercules_Furens.conllu"
-#data_file = open(aFile, "r", encoding="utf-8") 
-
-data_file = open(sys.argv[1], "r", encoding="utf-8") 
-file_content = data_file.read() 
-sentences = parse(file_content) 
-
-senteceBySpeaker = defaultdict(list)
-
-speakerObjectlist = list()
-
-currentSpeech = SpeakerSpeech()
-currentSpeaker = ""
-for sentence in sentences: # ciclo sulle frasi e uso la variabile sentence per ogni frase
-    speaker = sentence.metadata['speaker']
+def extractSpeakerList(speaker):
     speakerElements = speaker.split(",")
     
     speakerList = []
@@ -119,8 +82,57 @@ for sentence in sentences: # ciclo sulle frasi e uso la variabile sentence per o
             newSpeaker = Speaker(speaker.strip())
             speakerObjectlist.append(newSpeaker)
         speakerList.append(speaker.strip())
-    
 
+
+    return speakerList
+
+
+def elemetAnalyzer(stringa):
+    speaker =""
+    otherElement = ""
+    if "(" in stringa:
+        stringElements = stringa.split("(")
+        speaker = stringElements[0].strip()
+
+        for i in range(1,len(stringElements)):
+            otherElement = stringElements[i].replace(")","").strip()
+            if "token" in otherElement.lower():
+                otherElement = otherElement.lower().replace("token","").strip()
+            else:
+                otherElement = otherElement.strip()
+
+    return speaker,otherElement
+        
+
+
+
+SINGLE_INDENT ="* "
+DOUBLE_INDENT ="   * "
+TRIPLE_INDENT ="      * "
+QUAD_INDENT ="         * "
+QUAD_TAB ="         "
+
+#aFile = "/Users/giovannimoretti/Downloads/UD_Latin-CIRCSE-main/conllu/01_Seneca_Hercules_Furens.conllu"
+#aFile = "/Users/giovannimoretti/Downloads/UD_Latin-CIRCSE-main/conllu/02_Seneca_Agamemnon.conllu"
+#aFile = "/Users/giovannimoretti/Downloads/UD_Latin-CIRCSE-main 2/conllu/04_Seneca_Oedipus.conllu"
+
+#data_file = open(aFile, "r", encoding="utf-8") 
+
+data_file = open(sys.argv[1], "r", encoding="utf-8") 
+file_content = data_file.read() 
+sentences = parse(file_content) 
+
+senteceBySpeaker = defaultdict(list)
+
+speakerObjectlist = list()
+
+currentSpeech = SpeakerSpeech()
+currentSpeaker = ""
+for sentence in sentences: # ciclo sulle frasi e uso la variabile sentence per ogni frase
+    senid = sentence.metadata['sent_id']
+    speaker = sentence.metadata['speaker']
+
+    speakerList = extractSpeakerList(speaker)
 
     sentenceText = []
 
@@ -152,14 +164,13 @@ for sentence in sentences: # ciclo sulle frasi e uso la variabile sentence per o
             if len(currentSpeaker) == 0:
                 currentSpeaker = speaker
 
+          
+       
+
             speaker,form = assignATokenToSpeaker(speakerList,token)
 
 
-
-
             if speaker != currentSpeaker:
-
-
                 speakerObj = next((x for x in speakerObjectlist if x.name == currentSpeaker), None)
                 currentSpeech.appendSentenceToSpeech()
                 speakerObj.appendSpeech(currentSpeech)
@@ -185,9 +196,13 @@ speakerObj.appendSpeech(currentSpeech)
 
 for speaker in speakerObjectlist:
     speaker.getAllTokenCount()
-
+#    if (str(speaker) == "Tiresia"):
+#        print()
     print("## "+str(speaker) + " ("+str(speaker.getAllTokenCount())+" token with multiword)") 
     print("* Number of speeches: "+str(len(speaker.speeches)))
+
+    aggieggiFreq = {}
+
     for idxSpeec,speech in enumerate(speaker.speeches):
 
         speechText, ttr = speech.getSpeechText()
@@ -205,5 +220,29 @@ for speaker in speakerObjectlist:
             for treeLine in treeLines:
                 print(QUAD_TAB + treeLine)
             print(QUAD_TAB + "```")
+
+
+            sentenceIdMapping = {} # creo un dizionario che mi mapperà ogni riga della frase con il rispettivo id 
+            for token in sentence: # ciclo su ogni token della frase
+                sentenceIdMapping[token["id"]] = token # uso come chiave per il dizionario l'id del token e come valore l'oggetto che rappresenta tutta la riga del conllu
+            for token in sentence: # ciclo su ogni token della frase
+                if (token["deprel"] != "_" and token["deprel"] != "punct" ): # sa la deprel è _ salto
+                    aggeggio = ""
+                    if token["head"] == 0:
+                        aggeggio = "0->" + str(token["deprel"]) + "->" + str(sentenceIdMapping[token["id"]]["upos"])
+                    elif token["head"] not in sentenceIdMapping:
+                        aggeggio = (str(  token["head"] )  + "->" + str(token["deprel"]) + "->" + str(sentenceIdMapping[token["id"]]["upos"]))
+                    else:
+                        aggeggio = (str( sentenceIdMapping[token["head"]]["upos"])  + "->" + str(token["deprel"]) + "->" + str(sentenceIdMapping[token["id"]]["upos"])) 
+                    # print(aggeggio)
+                    if aggeggio not in aggieggiFreq:
+                        aggieggiFreq[aggeggio] = 0
+                    
+                    aggieggiFreq[aggeggio] += 1
+    
+    print(SINGLE_INDENT + "Trigrammi speaker " + str(speaker))
+    aggieggiFreq = dict(sorted(aggieggiFreq.items(), key=lambda item: item[1],reverse=True))
+    for key in aggieggiFreq:
+        print(DOUBLE_INDENT + key + "\t" + str(aggieggiFreq[key]))
             
     print()
