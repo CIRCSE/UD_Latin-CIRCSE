@@ -1,6 +1,6 @@
 import networkx as nx
 import io
-
+import conllu
 
 
 class Speaker:
@@ -32,18 +32,22 @@ class SpeakerSpeech:
 
     def __init__(self):
         self.speechRawText = []
-        self.conlluLines = []
-        self.sentences = []
+        self.conlluLines = conllu.TokenList()
+        self.sentences = conllu.SentenceList()
     
     def appendTokenToSpeech(self,token):
         self.conlluLines.append(token)
 
 
-    def appendSentenceToSpeech (self):
+    def appendSentenceToSpeech (self,sent_id):
         if (len(self.conlluLines) > 0):
+
+            #x = conllu.SentenceList(self.conlluLines)
+            self.conlluLines.metadata["sent_id"]=sent_id
             self.sentences.append(self.conlluLines)
-        self.conlluLines = []
+        self.conlluLines = conllu.TokenList()
     
+
     def getSentenceText(self,sentence):
         skiptokenList = []
         sentenceText = []
