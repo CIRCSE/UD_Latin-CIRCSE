@@ -23,15 +23,18 @@ pip install -r requirements.txt
 ```
 run the script with: 
 ```
-python SpeakerExtractor.py <file_conllu>
+python SpeakerExtractor.py -i <file_conllu>
 ```
 i.e.:
 ```
-python SpeakerExtractor.py file1.conllu
+python SpeakerExtractor.py -i file1.conllu
 ```
 if you want to save the results on a separate file it's possible to redirect the output with ">" command i.e:
 ```
 python SpeakerExtractor.py file1.conllu > output.txt
 ```
-
+if you want to save the conllu of each speaker add ```-sc``` parameter to the command line.
+```
+python SpeakerExtractor.py -sc -i file1.conllu > output.txt
+```
 
