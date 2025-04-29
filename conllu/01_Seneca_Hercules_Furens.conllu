@@ -7549,7 +7549,8 @@
 
 # sent_id = SenHerFu-P-15-392
 # text = sanguinem fundes tuum
-# speaker = Megara ( following Zwierlein 1986) Zwierlein, O. (1986) L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules [Oetaeus], Octauia. Oxford: Clarendon Press.
+# speaker = Megara 
+# speaker attribution following Zwierlein 1986) Zwierlein, O. (1986) L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules [Oetaeus], Octauia. Oxford: Clarendon Press.
 1	sanguinem	sanguis	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	2	obj	_	LiLaflcat=n3
 2	fundes	fundo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=2|LiLaflcat=v3
 3	tuum	tuus	DET	F	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6
