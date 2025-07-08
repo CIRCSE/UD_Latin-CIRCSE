@@ -742,7 +742,7 @@
 42	armatus	armo	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	43	amod	_	LASLAVariant=2|LiLaflcat=n6
 43	Furor	furor	PROPN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	29	conj	_	LASLAVariant=N|LiLaflcat=n3
 44	hoc	hic	DET	I	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	46	det	_	LASLAVariant=1|LiLaflcat=p
-45	hoc	hic	DET	I	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	44	conj	_	LASLAVariant=1|LiLaflcat=p
+45	hoc	hic	DET	I	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	44	flat:redup	_	LASLAVariant=1|LiLaflcat=p
 46	ministro	minister	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	48	obl:arg	_	LASLAVariant=1|LiLaflcat=n2
 47	noster	noster	DET	F	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	49	det	_	LiLaflcat=n6
 48	utatur	utor	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	conj	_	LiLaflcat=v3
@@ -7549,7 +7549,7 @@
 
 # sent_id = SenHerFu-P-15-392
 # text = sanguinem fundes tuum
-# speaker = Megara 
+# speaker = Megara
 # speaker attribution following Zwierlein 1986) Zwierlein, O. (1986) L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules [Oetaeus], Octauia. Oxford: Clarendon Press.
 1	sanguinem	sanguis	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	2	obj	_	LiLaflcat=n3
 2	fundes	fundo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=2|LiLaflcat=v3
