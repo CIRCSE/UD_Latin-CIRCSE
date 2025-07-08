@@ -155,13 +155,6 @@ LASLA: FEATS Gender=Neut
 
 CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
-
-token\_id: Latin_SenecaYounger_Oed_poetry-381-25 (nefas)
-
-LASLA: FEATS Gender=Fem,Masc
-
-CIRCSE: FEATS Gender=Neut (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
-
 token\_id: Latin_SenecaYounger_Oed_poetry-294-1 (quid)
 
 LASLA: PRON
@@ -198,11 +191,23 @@ LASLA: FEATS Gender=Fem,Masc (following Glare 1968) Glare , P. G. W. (ed.) (1968
 
 CIRCSE: FEATS Gender=Neut
 
+token\_id: Latin_SenecaYounger_Oed_poetry-381-25 (nefas)
+
+LASLA: FEATS Gender=Fem,Masc
+
+CIRCSE: FEATS Gender=Neut (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
 token\_id: Latin_SenecaYounger_Oed_poetry-388-12 (quid) 
 
 LASLA: PRON
 
 CIRCSE: ADV (following Glare 1968, s.v. quis1, 16) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+token\_id: Latin_SenecaYounger_Oed_poetry-393-8 (compello)
+
+LASLA: LiLaflcat=v3
+
+CIRCSE: LiLaflcat=v1 (following Hofmann 1911 3.0.2028.57) Hofmann (1911). 1. compello , -āvī , -ātum , -āre " Thesaurus Linguae Latinae Online, vol. 3, 0, pp. 2027-2029. Berlin, New York: De Gruyter. https://tll.degruyter.com/article/3_0_9_compello_1_v2007. 
 
 token\_id: Latin_SenecaYounger_Oed_poetry-394-1 (o)
 
