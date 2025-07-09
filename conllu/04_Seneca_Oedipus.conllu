@@ -3834,7 +3834,7 @@
 5	pedes	pes	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	4	obj	_	LiLaflcat=n3
 6	squalente	squalens	ADJ	C5	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	7	amod	_	LiLaflcat=n7
 7	cultu	cultus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	9	obl	_	LASLAVariant=1|LiLaflcat=n4
-8	maestus	maestus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	9	xcomp	_	LiLaflcat=n6
+8	maestus	maestus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	9	advcl:pred	_	LiLaflcat=n6
 9	ingreditur	ingredior	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	LiLaflcat=v5
 10	senex	senex	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	9	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 11	mortifera	mortifer	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	13	amod	_	LiLaflcat=n6
