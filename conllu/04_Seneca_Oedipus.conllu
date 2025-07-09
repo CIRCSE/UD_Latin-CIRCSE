@@ -2542,7 +2542,7 @@
 # speaker = Manto
 1	cor	cor	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	2	nsubj	_	LiLaflcat=n3
 2	marcet	marceo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
-3	aegrum	aeger	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	xcomp	_	LASLAVariant=2|LiLaflcat=n6
+3	aegrum	aeger	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	advcl:pred	_	LASLAVariant=2|LiLaflcat=n6
 4	penitus	penitus	ADV	M	Degree=Pos	7	advmod	_	LASLAVariant=2|LiLaflcat=i
 5	ac	ac	CCONJ	S	_	6	cc	_	LASLAVariant=1|LiLaflcat=i
 6	mersum	mergo	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	4	conj	_	LiLaflcat=v3
