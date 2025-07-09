@@ -6317,7 +6317,7 @@
 # text = saeculi crimen uagor odium deorum iuris exitium sacri qua luce primum spiritus hausi rudes iam morte dignus
 # speaker = Oedipus
 1	saeculi	saeculum	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	2	nmod	_	LiLaflcat=n2
-2	crimen	crimen	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	3	xcomp	_	LiLaflcat=n3
+2	crimen	crimen	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	3	advcl:pred	_	LiLaflcat=n3
 3	uagor	uagor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LASLAVariant=2|LiLaflcat=v1
 4	odium	odium	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	conj	_	LiLaflcat=n2
 5	deorum	deus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	4	nmod	_	LiLaflcat=n2
