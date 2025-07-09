@@ -4408,7 +4408,7 @@
 23	sed	sed	CCONJ	S	_	24	cc	_	LiLaflcat=i
 24	rex	rex	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	19	conj	_	LiLaflcat=n3
 25	cruentus	cruentus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	24	amod	_	LiLaflcat=n6
-26	pretia	pretium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	33	xcomp	_	LiLaflcat=n2
+26	pretia	pretium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	33	advcl:pred	_	LiLaflcat=n2
 27	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	33	nsubj	_	LASLAVariant=1|LiLaflcat=p
 28	saeuae	saeuus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	29	amod	_	LiLaflcat=n6
 29	necis	nex	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	26	nmod	_	LiLaflcat=n3
