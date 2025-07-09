@@ -6896,7 +6896,7 @@
 # speaker = Nuntius
 1	at	at	CCONJ	S	_	5	cc	_	LASLAVariant=2|LiLaflcat=i
 2	contra	contra	ADV	M	Degree=Pos	5	advmod	_	LASLAVariant=1|LiLaflcat=i
-3	truces	trux	ADJ	C5	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	5	xcomp	_	LiLaflcat=n7
+3	truces	trux	ADJ	C5	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	5	advcl:pred	_	LiLaflcat=n7
 4	oculi	oculus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	5	nsubj	_	LiLaflcat=n2
 5	steterunt	sto	VERB	B1	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
 6	et	et	CCONJ	S	_	11	cc	_	LASLAVariant=2|LiLaflcat=i
