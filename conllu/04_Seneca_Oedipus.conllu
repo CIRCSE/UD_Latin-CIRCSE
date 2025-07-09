@@ -1304,7 +1304,7 @@
 # sent_id = SenOedip-P-20-54
 # text = prostrata iacet turba per aras oratque mori solum hoc faciles tribuere dei delubra petunt haut ut uoto numina placent sed iuuat ipsos satiare deos
 # speaker = Chorus
-1	prostrata	prosterno	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	2	xcomp	_	LiLaflcat=v3
+1	prostrata	prosterno	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	2	advcl:pred	_	LiLaflcat=v3
 2	iacet	iaceo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 3	turba	turba	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	2	nsubj	_	LiLaflcat=n1
 4	per	per	ADP	R	AdpType=Prep	5	case	_	LiLaflcat=i
