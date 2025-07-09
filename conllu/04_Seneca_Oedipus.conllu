@@ -2160,7 +2160,7 @@
 # text = utrumne clarus ignis et nitidus stetit rectusque purum uerticem caelo tulit et summam in auras fusus explicuit comam
 # speaker = Tiresia
 1	utrumne	utrumne	ADV	O	PronType=Int	6	advmod	_	LiLaflcat=i
-2	clarus	clarus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	6	xcomp	_	LiLaflcat=n6
+2	clarus	clarus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	6	advcl:pred	_	LiLaflcat=n6
 3	ignis	ignis	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Sing	6	nsubj	_	LiLaflcat=n3
 4	et	et	CCONJ	S	_	5	cc	_	LASLAVariant=2|LiLaflcat=i
 5	nitidus	nitidus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	2	conj	_	LiLaflcat=n6
