@@ -5574,7 +5574,7 @@
 4	tuum	tuus	DET	F	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	5	det	_	LiLaflcat=n6
 5	reditum	reditus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing	6	obj	_	LiLaflcat=n4
 6	expetens	expeto	VERB	B3	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	8	advcl:pred	_	LiLaflcat=v3
-7	sollicita	sollicitus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	8	xcomp	_	LiLaflcat=n6
+7	sollicita	sollicitus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	8	advcl:pred	_	LiLaflcat=n6
 8	pendet	pendeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LiLaflcat=v2
 
 # sent_id = SenOedip-P-20-252
