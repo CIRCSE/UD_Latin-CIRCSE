@@ -2166,7 +2166,7 @@
 5	nitidus	nitidus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	2	conj	_	LiLaflcat=n6
 6	stetit	sto	VERB	B1	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
 7-8	rectusque	_	_	_	_	_	_	_	_
-7	rectus	rectus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	12	xcomp	_	LiLaflcat=n6
+7	rectus	rectus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	12	advcl:pred	_	LiLaflcat=n6
 8	que	que	CCONJ	S	_	12	cc	_	LiLaflcat=i
 9	purum	purus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	10	amod	_	LiLaflcat=n6
 10	uerticem	uertex	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	12	obj	_	LiLaflcat=n3
