@@ -574,7 +574,7 @@
 18	fiam	fio	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	LiLaflcat=v6
 19	que	que	CCONJ	S	_	18	cc	_	LiLaflcat=i
 20	regni	regnum	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	21	nmod	_	LiLaflcat=n2
-21	funus	funus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	18	advcl:pred	_	LiLaflcat=n3
+21	funus	funus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	18	xcomp	_	LiLaflcat=n3
 22	extremum	exter	ADJ	C1	Case=Nom|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Sing	21	amod	_	LiLaflcat=n6
 23	mei	meus	DET	F	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	20	det	_	LiLaflcat=n6
 
