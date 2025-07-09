@@ -5437,7 +5437,7 @@
 3-4	uirtusque	_	_	_	_	_	_	_	_
 3	uirtus	uirtus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	2	conj	_	LiLaflcat=n3
 4	que	que	CCONJ	S	_	3	cc	_	LiLaflcat=i
-5	consortem	consors	ADJ	C5	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	6	xcomp	_	LiLaflcat=n7
+5	consortem	consors	ADJ	C5	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	6	advcl:pred	_	LiLaflcat=n7
 6	addidit	addo	VERB	B3	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 
 # sent_id = SenOedip-P-20-239
