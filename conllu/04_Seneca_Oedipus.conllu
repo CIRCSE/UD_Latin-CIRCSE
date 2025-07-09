@@ -6394,7 +6394,7 @@
 26	ducat	duco	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LiLaflcat=v3
 27	intrepidam	intrepidus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	28	amod	_	LiLaflcat=n6
 28	ratem	ratis	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	26	obj	_	LiLaflcat=n3
-29	tuta	tutus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	34	xcomp	_	LiLaflcat=n6
+29	tuta	tutus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	34	advcl:pred	_	LiLaflcat=n6
 30	me	ego	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	32	obj	_	LiLaflcat=p
 31	media	medius	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	33	amod	_	LiLaflcat=n6
 32	uehat	ueho	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LiLaflcat=v3
