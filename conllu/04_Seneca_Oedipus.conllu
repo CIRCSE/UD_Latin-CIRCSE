@@ -4512,7 +4512,7 @@
 4	regem	rex	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obj	_	LiLaflcat=n3
 5	ocius	ociter	ADV	M	Degree=Cmp	6	advmod:tmod	_	LiLaflcat=i
 6	agite	ago	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-7	exulem	exsul	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	6	xcomp	_	LiLaflcat=n3
+7	exulem	exsul	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	6	advcl:pred	_	LiLaflcat=n3
 8	quocumque	quocumque	ADV	M	Degree=Pos	12	advmod	_	LASLAVariant=2|LiLaflcat=i
 9	funesto	funestus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	10	amod	_	LiLaflcat=n6
 10	gradu	gradus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	12	obl	_	LiLaflcat=n4
