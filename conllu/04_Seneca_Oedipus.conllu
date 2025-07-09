@@ -7192,7 +7192,7 @@
 1	en	en	INTJ	U	_	5	discourse	_	LiLaflcat=i
 2	ecce	ecce	INTJ	U	_	5	discourse	_	LiLaflcat=i
 3	rapido	rapidus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	_	LiLaflcat=n6
-4	saeua	saeuus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	5	xcomp	_	LiLaflcat=n6
+4	saeua	saeuus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	5	advcl:pred	_	LiLaflcat=n6
 5	prosiluit	prosilio	VERB	B4	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v4
 6	gradu	gradus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	5	obl	_	LiLaflcat=n4
 7	Iocasta	iocasta	PROPN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	5	nsubj	_	LASLAVariant=N|LiLaflcat=n1
