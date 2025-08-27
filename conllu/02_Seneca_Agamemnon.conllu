@@ -5275,7 +5275,7 @@
 1	uictor	uictor	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	5	dislocated:nsubj	_	LiLaflcat=n3
 2	ferarum	fera	NOUN	A1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur	1	nmod	_	LiLaflcat=n1
 3	colla	collum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	5	obj	_	LiLaflcat=n2
-4	sublimis	sublimis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	5	xcomp	_	LiLaflcat=n7
+4	sublimis	sublimis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	5	advcl:pred	_	LiLaflcat=n7
 5	iacet	iaceo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 6	ignobili	ignobilis	ADJ	C4	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	8	amod	_	LiLaflcat=n7
 7	sub	sub	ADP	R	AdpType=Prep	8	case	_	LiLaflcat=i
