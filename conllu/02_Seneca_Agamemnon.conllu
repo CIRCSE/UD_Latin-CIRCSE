@@ -6224,7 +6224,7 @@
 2	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	6	nsubj	_	LiLaflcat=p
 3	picta	pingo	VERB	B3	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	LiLaflcat=v3
 4	ueste	uestis	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	6	obl	_	LiLaflcat=n3
-5	sublimis	sublimis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	6	xcomp	_	LiLaflcat=n7
+5	sublimis	sublimis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	6	advcl:pred	_	LiLaflcat=n7
 6	iacet	iaceo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 7	Priami	priamus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	10	nmod	_	LASLAVariant=N|LiLaflcat=n2
 8	superbas	superbus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	10	amod	_	LASLAVariant=2|LiLaflcat=n6
