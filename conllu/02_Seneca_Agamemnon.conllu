@@ -7287,7 +7287,7 @@
 # text = perferre prima nuntium Phrygibus meis propero repletum ratibus euersis mare captas Mycenas mille ductorem ducum ut paria fata Troicis lueret malis perisse dono feminae stupro dolo
 # speaker = Cassandra
 1	perferre	perfero	VERB	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	6	xcomp	_	LiLaflcat=v6
-2	prima	primus	ADJ	D2	Case=Nom|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing|NumType=Ord	1	xcomp	_	LiLaflcat=n6
+2	prima	primus	ADJ	D2	Case=Nom|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing|NumType=Ord	1	advcl:pred	_	LiLaflcat=n6
 3	nuntium	nuntius	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	1	obj	_	LASLAVariant=1|LiLaflcat=n2
 4	Phrygibus	phryges	PROPN	A3	Case=Dat|Gender=Masc|InflClass=IndEurI|NameType=Nat|Number=Plur	1	obl:arg	_	LASLAVariant=N|LiLaflcat=n3
 5	meis	meus	DET	F	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	LiLaflcat=n6
