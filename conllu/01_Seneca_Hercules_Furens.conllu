@@ -10145,7 +10145,7 @@
 10	Alcide	alcides	PROPN	A7	Case=Voc|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing|Variant=Greek	11	vocative	_	LASLAVariant=N|LiLaflcat=n1
 11	uocat	uoco	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LiLaflcat=v1
 12	facere	facio	VERB	B5	Aspect=Imp|InflClass=LatI2|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	17	xcomp	_	LiLaflcat=v5
-13	innocentes	innocens	ADJ	C5	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	12	advcl:pred	_	LiLaflcat=n7
+13	innocentes	innocens	ADJ	C5	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	12	xcomp	_	LiLaflcat=n7
 14	terra	terra	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	11	nsubj	_	LiLaflcat=n1
 15	quae	qui	PRON	J	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	17	nsubj	_	LASLAVariant=1|LiLaflcat=p
 16	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	12	obj	_	LiLaflcat=n2
