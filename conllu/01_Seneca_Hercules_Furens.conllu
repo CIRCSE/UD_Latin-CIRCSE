@@ -9803,7 +9803,7 @@
 10	maximum	magnus	ADJ	C1	Case=Acc|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Sing	12	amod	_	LiLaflcat=n6
 11	euasi	euado	VERB	B3	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	LASLAVariant=2|LiLaflcat=v3
 12	metum	metus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing	11	obj	_	LiLaflcat=n4
-13	miserum	miser	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	17	advcl:pred	_	LiLaflcat=n6
+13	miserum	miser	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	17	xcomp	_	LiLaflcat=n6
 14	haut	haud	PART	P	Polarity=Neg	15	advmod:neg	_	LiLaflcat=i
 15	potes	possum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LASLAVariant=1|LiLaflcat=v6
 16	me	ego	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	17	obj	_	LiLaflcat=p
