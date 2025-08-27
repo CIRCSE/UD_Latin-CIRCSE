@@ -4861,7 +4861,7 @@
 32	que	que	CCONJ	S	_	37	cc	_	LiLaflcat=i
 33	suos	suus	DET	H	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	31	det	_	LiLaflcat=n6
 34	nido	nidus	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	37	obl:lmod	_	LiLaflcat=n2
-35	pauidae	pauidus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	37	xcomp	_	LiLaflcat=n6
+35	pauidae	pauidus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	37	advcl:pred	_	LiLaflcat=n6
 36	titubante	titubo	VERB	B1	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	34	acl	_	LiLaflcat=v1
 37	fouent	foueo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	LiLaflcat=v2
 38	non	non	PART	P	Polarity=Neg	39	advmod:neg	_	LiLaflcat=i
@@ -4869,7 +4869,7 @@
 40	molles	mollis	ADJ	C4	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	42	amod	_	LiLaflcat=n7
 41	comitata	comitor	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	44	advcl:pred	_	LiLaflcat=v1
 42	uiros	uir	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	41	obj	_	LiLaflcat=n2
-43	tristis	tristis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	44	xcomp	_	LiLaflcat=n7
+43	tristis	tristis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	44	advcl:pred	_	LiLaflcat=n7
 44	laceret	lacero	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	65	advcl	_	LiLaflcat=v1
 45	bracchia	brachium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	44	obj	_	LiLaflcat=n2
 46-47	tecum	_	_	_	_	_	_	_	_
