@@ -1168,7 +1168,7 @@
 5	meae	meus	DET	F	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	LiLaflcat=n6
 6	quos	qui	PRON	J	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	10	obj	_	LASLAVariant=1|LiLaflcat=p
 7	ille	ille	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	10	nsubj	_	LiLaflcat=p
-8	dignos	dignus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	10	advcl:pred	_	LiLaflcat=n6
+8	dignos	dignus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	10	xcomp	_	LiLaflcat=n6
 9	Pelopia	pelopius	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|NameType=Giv|Number=Sing	11	amod	_	LASLAVariant=A|LiLaflcat=n6
 10	fecit	facio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	LiLaflcat=v5
 11	domo	domus	NOUN	A2	Case=Abl|Gender=Fem|InflClass=IndEurO|Number=Sing	8	obl:arg	_	LiLaflcat=n2
