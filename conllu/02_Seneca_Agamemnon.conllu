@@ -6829,7 +6829,7 @@
 8	more	mos	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	12	obl	_	LiLaflcat=n3
 9	coetus	coetus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	12	obj	_	LiLaflcat=n4
 10	publicos	publicus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	9	amod	_	LASLAVariant=2|LiLaflcat=n6
-11	uirgo	uirgo	NOUN	A3	Case=Voc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	12	xcomp	_	LiLaflcat=n3
+11	uirgo	uirgo	NOUN	A3	Case=Voc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	12	advcl:pred	_	LiLaflcat=n3
 12	petis	peto	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 
 # sent_id = SenAgamn-P-21-365
