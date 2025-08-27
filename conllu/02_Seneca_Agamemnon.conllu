@@ -6610,7 +6610,7 @@
 3	scelere	scelus	NOUN	A3	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	2	obl	_	LiLaflcat=n3
 4	materno	maternus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	_	LiLaflcat=n6
 5	iacet	iaceo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
-6	comes	comes	NOUN	A3	Case=Nom|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	8	xcomp	_	LiLaflcat=n3
+6	comes	comes	NOUN	A3	Case=Nom|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	8	advcl:pred	_	LiLaflcat=n3
 7	paternae	paternus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	10	amod	_	LiLaflcat=n6
 8	quaeritur	quaero	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	LiLaflcat=v3
 9	natus	natus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	8	nsubj:pass	_	LASLAVariant=1|LiLaflcat=n2
