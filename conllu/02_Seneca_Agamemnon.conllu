@@ -5306,7 +5306,7 @@
 # speaker = Cassandra
 1	te	tu	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	2	obj	_	LiLaflcat=p
 2	sequor	sequor	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
-3	testis	testis	NOUN	A3	Case=Voc|Gender=Fem,Masc|InflClass=IndEurI|Number=Sing	2	xcomp	_	LASLAVariant=1|LiLaflcat=n3
+3	testis	testis	NOUN	A3	Case=Voc|Gender=Fem,Masc|InflClass=IndEurI|Number=Sing	2	advcl:pred	_	LASLAVariant=1|LiLaflcat=n3
 4	pater	pater	NOUN	A3	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Sing	2	vocative	_	LiLaflcat=n3
 5	Troiae	troia	PROPN	A1	Case=Gen|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	4	nmod	_	LASLAVariant=N|LiLaflcat=n1
 6	sepultae	sepelio	VERB	B4	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|InflClass=LatI|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	5	acl	_	LiLaflcat=v4
