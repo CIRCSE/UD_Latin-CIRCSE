@@ -5712,7 +5712,7 @@
 # sent_id = SenAgamn-P-21-302
 # text = secura uiue
 # speaker = Agamemnon
-1	secura	securus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	2	xcomp	_	LiLaflcat=n6
+1	secura	securus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	2	advcl:pred	_	LiLaflcat=n6
 2	uiue	uiuo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 
 # sent_id = SenAgamn-P-21-303
