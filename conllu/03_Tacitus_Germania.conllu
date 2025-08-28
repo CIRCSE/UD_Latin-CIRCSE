@@ -1101,7 +1101,7 @@
 20	pauent	paueo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LiLaflcat=v2|TraditionalMood=Indicativus|TraditionalTense=Praesens
 21-22	cibosque	_	_	_	_	_	_	_	_
 21	cibos	cibus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	26	obj	_	LiLaflcat=n2
-22	que	que	CCONJ	S	_	26	obj	_	LiLaflcat=i
+22	que	que	CCONJ	S	_	26	cc	_	LiLaflcat=i
 23	et	et	CCONJ	S	_	24	cc	_	LASLAVariant=2|LiLaflcat=i
 24	hortamina	hortamen	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Plur	21	conj	_	LiLaflcat=n3
 25	pugnantibus	pugno	VERB	B1	Aspect=Imp|Case=Dat|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	26	obl:arg	_	LiLaflcat=v1|TraditionalMood=Participium|TraditionalTense=Praesens
