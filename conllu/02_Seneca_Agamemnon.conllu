@@ -2896,7 +2896,7 @@
 8	propitios	propitius	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	11	amod	_	LiLaflcat=n6
 9	attamen	attamen	ADV	M	Degree=Pos	10	advmod	_	LiLaflcat=i
 10	lentos	lentus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	8	conj	_	LiLaflcat=n6
-11	deos	deus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	2	obj	_	LiLaflcat=n2
+11	deos	deus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	5	conj	_	LiLaflcat=n2
 
 # sent_id = SenAgamn-P-21-158
 # text = tu pande uiuat coniugis frater mei et pande teneat quas soror sedes mea
