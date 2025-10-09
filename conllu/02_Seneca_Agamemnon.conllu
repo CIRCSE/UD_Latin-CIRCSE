@@ -254,15 +254,15 @@
 2	natura	natura	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	1	nsubj:pass	_	LiLaflcat=n1
 3	est	sum	AUX	Z3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	LASLAVariant=2|LiLaflcat=v6
 4	retro	retro	ADV	M	Degree=Pos	1	advmod	_	LASLAVariant=1|LiLaflcat=i
-5	auo	auus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	13	obl:arg	_	LiLaflcat=n2
-6	parentem	parens	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	13	obj	_	LASLAVariant=1|LiLaflcat=n3
+5	auo	auus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	6	orphan	_	LiLaflcat=n2
+6	parentem	parens	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	1	conj	_	LASLAVariant=1|LiLaflcat=n3
 7	pro	pro	INTJ	U	_	8	case	_	LASLAVariant=2|LiLaflcat=i
-8	nefas	nefas	NOUN	A6	Gender=Neut|InflClass=Ind	13	discourse	_	LiLaflcat=n
-9	patri	pater	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	13	obl:arg	_	LiLaflcat=n3
-10	uirum	uir	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	13	obj	_	LiLaflcat=n2
-11	gnatis	natus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	13	obl:arg	_	LASLAVariant=1|LiLaflcat=n2
-12	nepotes	nepos	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	13	obj	_	LASLAVariant=1|LiLaflcat=n3
-13	miscui	misceo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	LiLaflcat=v2
+8	nefas	nefas	NOUN	A6	Gender=Neut|InflClass=Ind	6	discourse	_	LiLaflcat=n
+9	patri	pater	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	10	orphan	_	LiLaflcat=n3
+10	uirum	uir	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	6	conj	_	LiLaflcat=n2
+11	gnatis	natus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	12	orphan	_	LASLAVariant=1|LiLaflcat=n2
+12	nepotes	nepos	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	6	conj	_	LASLAVariant=1|LiLaflcat=n3
+13	miscui	misceo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	LiLaflcat=v2
 14	nocti	nox	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurI|Number=Sing	13	obl:arg	_	LiLaflcat=n3
 15	diem	dies	NOUN	A5	Case=Acc|Gender=Fem,Masc|InflClass=IndEurE|Number=Sing	13	obj	_	LiLaflcat=n5
 
