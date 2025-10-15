@@ -1108,7 +1108,7 @@
 2	debes	debeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 3	sobolis	suboles	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing	1	obl:arg	_	LiLaflcat=n3
 4	ex	ex	ADP	R	AdpType=Prep	5	case	_	LiLaflcat=i
-5	illo	ille	DET	I	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem	3	obl	_	LiLaflcat=p
+5	illo	ille	DET	I	Case=Abl|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem	3	nmod	_	LiLaflcat=p
 6	tuae	tuus	DET	F	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	3	det	_	LiLaflcat=n6
 
 # sent_id = SenAgamn-P-21-59
