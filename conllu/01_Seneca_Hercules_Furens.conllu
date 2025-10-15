@@ -555,7 +555,7 @@
 9	prementem	premo	VERB	B3	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	8	acl	_	LiLaflcat=v3
 10	quaerit	quaero	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LiLaflcat=v3
 11	ad	ad	ADP	R	AdpType=Prep	12	case	_	LASLAVariant=2|LiLaflcat=i
-12	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	13	obl:lmod	_	LiLaflcat=n2
+12	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	10	obl:lmod	_	LiLaflcat=n2
 13	uiam	uia	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	10	obj	_	LiLaflcat=n1
 
 # sent_id = SenHerFu-P-15-25
