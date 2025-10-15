@@ -2569,7 +2569,7 @@
 1	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	6	obl	_	LiLaflcat=p
 2	multifora	multiforus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	_	LiLaflcat=n6
 3	tibia	tibia	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	6	nsubj	_	LiLaflcat=n1
-4	buxo	buxum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	LiLaflcat=n2
+4	buxo	buxum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	_	LiLaflcat=n2
 5	solemne	sollemnis	ADJ	C4	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	6	obj	_	LiLaflcat=n7
 6	canit	cano	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 7	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	9	obl	_	LiLaflcat=p
