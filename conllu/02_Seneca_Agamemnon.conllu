@@ -4067,7 +4067,7 @@
 23	terra	terra	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	27	obl:agent	_	LiLaflcat=n1
 24	que	que	CCONJ	S	_	30	cc	_	LiLaflcat=i
 25	et	et	CCONJ	S	_	26	cc	_	LASLAVariant=2|LiLaflcat=i
-26	igne	ignis	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Sing	23	obl	_	LiLaflcat=n3
+26	igne	ignis	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Sing	23	conj	_	LiLaflcat=n3
 27	uictus	uinco	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	30	advcl:pred	_	LiLaflcat=v3
 28	et	et	CCONJ	S	_	29	cc	_	LASLAVariant=2|LiLaflcat=i
 29	pelago	pelagus	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	23	conj	_	LiLaflcat=n2
