@@ -2053,7 +2053,7 @@
 1	unde	unde	ADV	O	PronType=Int	3	advmod	_	LASLAVariant=2|LiLaflcat=i
 2	illum	ille	DET	I	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	10	det	_	LiLaflcat=p
 3	mihi	ego	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	0	root	_	LiLaflcat=p
-4	quo	qui	PRON	J	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	10	obl:tmod	_	LASLAVariant=1|LiLaflcat=p
+4	quo	qui	PRON	J	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	9	obl:tmod	_	LASLAVariant=1|LiLaflcat=p
 5	te	tu	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	9	obj	_	LiLaflcat=p
 6-7	tuamque	_	_	_	_	_	_	_	_
 6	tuam	tuus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	8	det	_	LiLaflcat=n6
