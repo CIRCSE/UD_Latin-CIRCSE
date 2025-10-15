@@ -2209,7 +2209,7 @@
 13	timori	timor	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	11	obl	_	LiLaflcat=n3
 14	semper	semper	ADV	M	Degree=Pos	11	advmod:tmod	_	LiLaflcat=i
 15	in	in	ADP	R	AdpType=Prep	16	case	_	LiLaflcat=i
-16	peius	malus	ADJ	C1	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	13	obl	_	LASLAVariant=3|LiLaflcat=n7
+16	peius	malus	ADJ	C1	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	11	obl	_	LASLAVariant=3|LiLaflcat=n7
 17	fides	fides	NOUN	A5	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing	11	nsubj	_	LASLAVariant=2|LiLaflcat=n5
 
 # sent_id = SenHerFu-P-15-102
