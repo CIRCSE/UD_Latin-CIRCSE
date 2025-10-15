@@ -2226,7 +2226,7 @@
 9	quam	quis	PRON	K	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Int	10	det	_	LASLAVariant=1|LiLaflcat=p
 10	uiam	uia	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	13	obj	_	LiLaflcat=n1
 11	ad	ad	ADP	R	AdpType=Prep	12	case	_	LASLAVariant=2|LiLaflcat=i
-12	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	10	obl:lmod	_	LiLaflcat=n2
+12	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	13	obl:lmod	_	LiLaflcat=n2
 13	habet	habeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 
 # sent_id = SenHerFu-P-15-103
