@@ -1761,7 +1761,7 @@
 22	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	LASLAVariant=1|LiLaflcat=v6
 23	ad	ad	ADP	R	AdpType=Prep	25	case	_	LASLAVariant=2|LiLaflcat=i
 24	bonos	bonus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	25	amod	_	LiLaflcat=n6
-25	mores	mos	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	26	obl:lmod	_	LiLaflcat=n3
+25	mores	mos	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	20	obl:lmod	_	LiLaflcat=n3
 26	uia	uia	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	20	nsubj	_	LiLaflcat=n1
 27	quem	qui	PRON	J	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	28	obj	_	LASLAVariant=1|LiLaflcat=p
 28	paenitet	paeniteo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	csubj:relcl	_	LiLaflcat=v2
