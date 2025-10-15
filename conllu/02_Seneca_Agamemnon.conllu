@@ -5819,11 +5819,11 @@
 # speaker = Chorus
 1	Argos	argos	PROPN	A7	Case=Voc|Gender=Neut|InflClass=IndEurO|NameType=Geo|Number=Sing|Variant=Greek	12	vocative	_	LASLAVariant=N|LiLaflcat=n2
 2	nobilibus	nobilis	ADJ	C4	Case=Abl|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Plur	4	amod	_	LASLAVariant=2|LiLaflcat=n7
-3	nobile	nobilis	ADJ	C4	Case=Voc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	5	amod	_	LASLAVariant=2|LiLaflcat=n7
-4	ciuibus	ciuis	NOUN	A3	Case=Abl|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur	1	obl	_	LiLaflcat=n3
+3	nobile	nobilis	ADJ	C4	Case=Voc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	1	amod	_	LASLAVariant=2|LiLaflcat=n7
+4	ciuibus	ciuis	NOUN	A3	Case=Abl|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur	3	obl	_	LiLaflcat=n3
 5	Argos	argos	PROPN	A7	Case=Voc|Gender=Neut|InflClass=IndEurO|NameType=Geo|Number=Sing|Variant=Greek	1	flat:redup	_	LASLAVariant=N|LiLaflcat=n2
 6	iratae	iratus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	8	amod	_	LiLaflcat=n6
-7	carum	carus	ADJ	C1	Case=Voc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	conj	_	LiLaflcat=n6
+7	carum	carus	ADJ	C1	Case=Voc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	5	obl	_	LiLaflcat=n6
 8	nouercae	nouerca	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Sing	7	obl	_	LiLaflcat=n1
 9	semper	semper	ADV	M	Degree=Pos	12	advmod:tmod	_	LiLaflcat=i
 10	ingentes	ingens	ADJ	C5	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	11	amod	_	LiLaflcat=n7
