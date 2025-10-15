@@ -2406,8 +2406,8 @@
 # speaker = Lycus
 1	alieno	alienus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	amod	_	LASLAVariant=2|LiLaflcat=n6
 2	in	in	ADP	R	AdpType=Prep	3	case	_	LiLaflcat=i
-3	loco	locus	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	6	obl:lmod	_	LiLaflcat=n2
-4	haut	haud	PART	P	Polarity=Neg	7	advmod:neg	_	LiLaflcat=i
+3	loco	locus	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	5	obl:lmod	_	LiLaflcat=n2
+4	haut	haud	PART	P	Polarity=Neg	5	advmod:neg	_	LiLaflcat=i
 5	stabile	stabilis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	0	root	_	LiLaflcat=n7
 6	regnum	regnum	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	5	nsubj	_	LiLaflcat=n2
 7	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	LASLAVariant=1|LiLaflcat=v6
