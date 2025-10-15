@@ -6618,7 +6618,7 @@
 11	Aegisthus	aegisthus	PROPN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	15	nsubj	_	LASLAVariant=N|LiLaflcat=n2
 12	arces	arx	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur	15	obj	_	LiLaflcat=n3
 13	Uenere	uenus	PROPN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|NameType=Rel|Number=Sing	14	obl:agent	_	LASLAVariant=N|LiLaflcat=n3
-14	quaesitas	quaero	VERB	B3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass	12	obl	_	LiLaflcat=v3
+14	quaesitas	quaero	VERB	B3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass	12	acl	_	LiLaflcat=v3
 15	tenet	teneo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	LiLaflcat=v2
 
 # sent_id = SenAgamn-P-21-352
