@@ -1498,7 +1498,7 @@
 26	nunc	nunc	ADV	M	Degree=Pos	27	advmod:tmod	_	LiLaflcat=i
 27	conaris	conor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	LiLaflcat=v1
 28	et	et	CCONJ	S	_	29	cc	_	LASLAVariant=2|LiLaflcat=i
-29	furto	furtum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	25	obl	_	LiLaflcat=n2
+29	furto	furtum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	25	conj	_	LiLaflcat=n2
 30	aggredi	aggredior	VERB	B5	Aspect=Imp|InflClass=LatI2|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	27	xcomp	_	LiLaflcat=v5
 31	quem	qui	PRON	J	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	35	obj	_	LASLAVariant=1|LiLaflcat=p
 32	non	non	PART	P	Polarity=Neg	35	advmod:neg	_	LiLaflcat=i
