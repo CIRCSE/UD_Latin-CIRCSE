@@ -4707,7 +4707,7 @@
 2	uidi	uideo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	flat:redup	_	LiLaflcat=v2
 3	senis	senex	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	5	nmod	_	LASLAVariant=1|LiLaflcat=n3
 4	in	in	ADP	R	AdpType=Prep	5	case	_	LiLaflcat=i
-5	iugulo	iugulum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl:lmod	_	LiLaflcat=n2
+5	iugulo	iugulum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	11	obl:lmod	_	LiLaflcat=n2
 6	telum	telum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	11	nsubj:pass	_	LiLaflcat=n2
 7	Pyrrhi	pyrrhus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	6	nmod	_	LASLAVariant=N|LiLaflcat=n2
 8	uix	uix	ADV	M	Degree=Pos	11	advmod	_	LiLaflcat=i
