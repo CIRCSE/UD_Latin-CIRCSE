@@ -4154,7 +4154,7 @@
 12	det	do	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	LiLaflcat=v1
 13	faciles	facilis	ADJ	C4	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Plur	16	amod	_	LiLaflcat=n7
 14	ad	ad	ADP	R	AdpType=Prep	15	case	_	LASLAVariant=2|LiLaflcat=i
-15	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	16	obl:lmod	_	LiLaflcat=n2
+15	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	12	obl:lmod	_	LiLaflcat=n2
 16	uias	uia	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	12	obj	_	LiLaflcat=n1
 
 # sent_id = SenHerFu-P-15-217
