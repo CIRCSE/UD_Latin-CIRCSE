@@ -410,7 +410,7 @@
 1	patefacta	patefacio	VERB	Y5	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatI2|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	LiLaflcat=v5
 2	ab	ab	ADP	R	AdpType=Prep	4	case	_	LiLaflcat=i
 3	imis	inferus	ADJ	C1	Case=Abl|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Plur	4	amod	_	LiLaflcat=n6
-4	Manibus	manes	PROPN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	6	obl:lmod	_	LASLAVariant=N|LiLaflcat=n3
+4	Manibus	manes	PROPN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	1	obl:lmod	_	LASLAVariant=N|LiLaflcat=n3
 5	retro	retro	ADV	M	Degree=Pos	1	advmod:lmod	_	LASLAVariant=1|LiLaflcat=i
 6	uia	uia	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	1	nsubj:pass	_	LiLaflcat=n1
 7	est	sum	AUX	Z5	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	LASLAVariant=2|LiLaflcat=v6
