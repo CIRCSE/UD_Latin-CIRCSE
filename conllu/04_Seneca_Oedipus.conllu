@@ -116,7 +116,7 @@
 17	genitor	genitor	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	19	nsubj:pass	_	LiLaflcat=n3
 18	manu	manus	NOUN	A4	Case=Abl|Gender=Fem|InflClass=IndEurU|Number=Sing	19	obl:agent	_	LASLAVariant=1|LiLaflcat=n4
 19	perimatur	perimo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	advcl	_	LiLaflcat=v3
-20	hoc	hic	DET	I	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	24	iobj	_	LASLAVariant=1|LiLaflcat=p
+20	hoc	hic	DET	I	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	24	obj	_	LASLAVariant=1|LiLaflcat=p
 21	me	ego	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	24	iobj	_	LiLaflcat=p
 22	Delphicae	delphicus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Plur	23	amod	_	LASLAVariant=A|LiLaflcat=n6
 23	laurus	laurus	NOUN	A4	Case=Nom|Gender=Fem|InflClass=IndEurU|Number=Plur	24	nsubj	_	LiLaflcat=n4
