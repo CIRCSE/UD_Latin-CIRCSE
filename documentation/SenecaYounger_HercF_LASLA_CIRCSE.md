@@ -3,7 +3,7 @@ The text of Seneca's Hercules Furens was received with tokenisation, and annotat
 Deviations from source data are detailed in what follows:
 
 
-tokent_id: Latin_SenecaYounger_HercF_poetry-14-1 (nempe)
+token_id: Latin_SenecaYounger_HercF_poetry-14-1 (nempe)
 
 LASLA: UPOS ADV
 
@@ -180,4 +180,5 @@ token_id: Latin_SenecaYounger_HercF_poetry-471-1 (manus)
 LASLA: Case=Nom|Gender=Fem|Number=Sing. 
 
 CIRCSE: Case=Acc|Gender=Fem|Number=Plur (following Pieroni 2017) Pieroni, S. (2017). refugio , -fugi , -itum, -ere. Thesaurus Linguae Latinae Online, vol. 11, 2, pp. 694,49-699,70. Berlin, New York: De Gruyter.
+
 
