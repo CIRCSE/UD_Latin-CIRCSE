@@ -6007,7 +6007,7 @@
 1	laetus	laetus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	2	amod	_	LASLAVariant=2|LiLaflcat=n6
 2	Cithaeron	cithaeron	PROPN	A7	Case=Nom|Gender=Masc|InflClass=IndEurX|NameType=Geo|Number=Sing|Variant=Greek	9	nsubj	_	LASLAVariant=N|LiLaflcat=n3
 3	pabulo	pabulum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	9	obl	_	LiLaflcat=n2
-4	semper	semper	ADV	M	Degree=Pos	5	advmod	_	LiLaflcat=i
+4	semper	semper	ADV	M	Degree=Pos	5	advmod:tmod	_	LiLaflcat=i
 5	nouo	nouus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	_	LiLaflcat=n6
 6	aestiua	aestiuus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	8	amod	_	LiLaflcat=n6
 7	nostro	noster	DET	F	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	LiLaflcat=n6
