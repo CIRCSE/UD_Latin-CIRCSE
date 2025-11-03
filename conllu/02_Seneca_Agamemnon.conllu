@@ -706,7 +706,7 @@
 # sent_id = SenAgamn-P-21-36
 # text = quid fluctuaris
 # speaker = Clytemestra
-1	quid	ADV	ADV	K	PronType=Int	2	advmod	_	LASLAVariant=1|LiLaflcat=p
+1	quid	quis	ADV	K	PronType=Int	2	advmod	_	LASLAVariant=1|LiLaflcat=p
 2	fluctuaris	fluctuor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v1
 
 # sent_id = SenAgamn-P-21-37
