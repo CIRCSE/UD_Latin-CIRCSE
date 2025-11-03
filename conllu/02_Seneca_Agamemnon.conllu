@@ -6943,10 +6943,10 @@
 9	interea	interea	ADV	M	Degree=Pos	11	advmod:tmod	_	LiLaflcat=i
 10	mihi	ego	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	11	obl:arg	_	LiLaflcat=p
 11	edissere	edissero	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	LASLAVariant=2|LiLaflcat=v3
-12	ubi	ubi	ADV	O	PronType=Int	14	advmod	_	LASLAVariant=2|LiLaflcat=i
+12	ubi	ubi	ADV	O	PronType=Int	14	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i
 13	sit	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	LASLAVariant=1|LiLaflcat=v6
 14	natus	natus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	11	advcl	_	LASLAVariant=1|LiLaflcat=n2
-15	ubi	ubi	ADV	O	PronType=Int	16	advmod	_	LASLAVariant=2|LiLaflcat=i
+15	ubi	ubi	ADV	O	PronType=Int	16	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i
 16	frater	frater	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	14	conj	_	LiLaflcat=n3
 17	tuus	tuus	DET	F	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	16	det	_	LiLaflcat=n6
 
