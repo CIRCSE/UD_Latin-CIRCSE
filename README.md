@@ -82,5 +82,5 @@ Since the UD_Latin-CIRCSE treebank is a work in progress, its structure is subje
 
 # Acknowledgments
 
-The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in the framework of the _LiLa: Linking Latin_ project. LiLa has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994. Warmful thanks to Federica Gamba and Flavio Massimiliano Cecchini for their support and precious advices during the annotation process. 
-The mainteinance of the treebank benefits from the partecipation to [UniDive COST Action CA21167] (https://unidive.lisn.upsaclay.fr/)
+The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in the framework of the _LiLa: Linking Latin_ project. LiLa has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994. Warmful thanks to Federica Gamba and Flavio Massimiliano Cecchini for their support and precious advices during the annotation process.  
+The maintenance of the treebank benefits from the partecipation to [UniDive COST Action CA21167](https://unidive.lisn.upsaclay.fr/).
