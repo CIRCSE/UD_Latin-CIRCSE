@@ -6683,7 +6683,7 @@
 # sent_id = SenHerFu-P-15-334
 # text = utinam cruore capitis inuisi deis libare possem gratior nullus liquor tinxisset aras uictima haut ulla amplior potest magisque opima mactari Ioui quam rex iniquus
 # speaker = Hercules
-1	utinam	utinam	ADV	M	Degree=Pos	7	mark	_	LiLaflcat=i
+1	utinam	utinam	ADV	M	Degree=Pos	7	advmod	_	LiLaflcat=i
 2	cruore	cruor	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obl	_	LiLaflcat=n3
 3	capitis	caput	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	2	nmod	_	LiLaflcat=n3
 4	inuisi	inuisus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	_	LASLAVariant=1|LiLaflcat=n6
