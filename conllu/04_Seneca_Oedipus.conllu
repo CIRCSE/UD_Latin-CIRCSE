@@ -7442,7 +7442,7 @@
 12	manu	manus	NOUN	A4	Case=Abl|Gender=Fem|InflClass=IndEurU|Number=Sing	11	obl	_	LASLAVariant=1|LiLaflcat=n4
 13	umquam	umquam	ADV	M	Degree=Pos	14	advmod:tmod	_	LiLaflcat=i
 14	rependam	rependo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-15	sceleribus	scelus	NOUN	A3	Case=Dat|Gender=Neut|InflClass=IndEurX|Number=Plur	17	obl:cmp	_	LiLaflcat=n3
+15	sceleribus	scelus	NOUN	A3	Case=Dat|Gender=Neut|InflClass=IndEurX|Number=Plur	17	obl:arg	_	LiLaflcat=n3
 16	poenas	poena	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	14	obj	_	LiLaflcat=n1
 17	pares	par	ADJ	C5	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Plur	16	amod	_	LASLAVariant=2|LiLaflcat=n7
 18	mater	mater	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	14	advcl:pred	_	LiLaflcat=n3

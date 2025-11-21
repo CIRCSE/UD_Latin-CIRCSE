@@ -6131,7 +6131,7 @@
 3	intus	intus	ADV	M	Degree=Pos	2	advmod:lmod	_	LASLAVariant=1|LiLaflcat=i
 4	magna	magnus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	1	amod	_	LiLaflcat=n6
 5	par	par	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	1	amod	_	LASLAVariant=2|LiLaflcat=n7
-6	annis	annus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	5	obl:cmp	_	LiLaflcat=n2
+6	annis	annus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	5	obl:arg	_	LiLaflcat=n2
 7	decem	decem	NUM	D1	InflClass=Ind|Number=Plur|NumType=Card	6	nummod	_	LiLaflcat=n
 8	eheu	eheu	INTJ	U	_	9	discourse	_	LiLaflcat=i
 9	quid	quis	PRON	K	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	2	conj	_	LASLAVariant=1|LiLaflcat=p
