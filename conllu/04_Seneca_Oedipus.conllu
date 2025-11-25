@@ -4748,7 +4748,7 @@
 7	quis	qui	PRON	J	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Rel	9	obl:arg	_	LASLAVariant=1|LiLaflcat=p
 8	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	LASLAVariant=1|LiLaflcat=v6
 9	liber	liber	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	acl:relcl	_	LASLAVariant=2|LiLaflcat=n6
-10	etiamnum	etiamnunc	ADV	M	Degree=Pos	9	advmod	_	LiLaflcat=i
+10	etiamnum	etiamnunc	ADV	M	Degree=Pos	9	advmod:tmod	_	LiLaflcat=i
 11	status	status	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	9	nsubj	_	LASLAVariant=1|LiLaflcat=n4
 12	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	14	obl	_	LiLaflcat=p
 13	iam	iam	ADV	M	Degree=Pos	14	advmod:tmod	_	LiLaflcat=i
