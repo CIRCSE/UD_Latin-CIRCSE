@@ -1768,7 +1768,7 @@
 51	et	et	CCONJ	S	_	52	cc	_	LASLAVariant=2|LiLaflcat=i
 52	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	55	nsubj	_	LASLAVariant=1|LiLaflcat=p
 53	carentis	careo	VERB	B2	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	56	acl	_	LiLaflcat=v2
-54	luce	lux	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	53	obl	_	LiLaflcat=n3
+54	luce	lux	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	53	obl:arg	_	LiLaflcat=n3
 55	disponis	dispono	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	LiLaflcat=v3
 56	domos	domus	NOUN	A2	Case=Acc|Gender=Fem|InflClass=IndEurO|Number=Plur	55	obj	_	LiLaflcat=n2
 57	adeste	assum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v6
@@ -2030,7 +2030,7 @@
 12	magnanime	magnanimus	ADJ	C1	Case=Voc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	14	vocative	_	LiLaflcat=n6
 13	mirari	miror	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	14	csubj:relcl	_	LiLaflcat=v1
 14	addecet	addecet	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
-15	uisu	uisus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	16	obl	_	LiLaflcat=n4
+15	uisu	uisus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	16	obl:arg	_	LiLaflcat=n4
 16	carenti	careo	VERB	B2	Aspect=Imp|Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	20	obl	_	LiLaflcat=v2
 17	magna	magnus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	18	amod	_	LiLaflcat=n6
 18	pars	pars	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	20	nsubj	_	LiLaflcat=n3
