@@ -5886,7 +5886,7 @@
 4	hinc	hinc	ADV	M	Degree=Pos	6	advmod:lmod	_	LiLaflcat=i
 5	regis	rex	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	6	nmod	_	LiLaflcat=n3
 6	salus	salus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	3	conj	_	LiLaflcat=n3
-7	utrimque	utrimque	ADV	M	Degree=Pos	8	advmod	_	LiLaflcat=i
+7	utrimque	utrimque	ADV	M	Degree=Pos	8	advmod:lmod	_	LiLaflcat=i
 8	paria	par	ADJ	C5	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	3	conj:expl	_	LASLAVariant=2|LiLaflcat=n7
 9	contine	contineo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LiLaflcat=v2
 10	medias	medius	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	11	amod	_	LiLaflcat=n6
