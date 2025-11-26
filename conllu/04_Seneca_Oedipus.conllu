@@ -4393,7 +4393,7 @@
 8	non	non	PART	P	Polarity=Neg	22	advmod:neg	_	LiLaflcat=i
 9	graui	grauis	ADJ	C4	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	10	amod	_	LiLaflcat=n7
 10	flatu	flatus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	12	obl	_	LiLaflcat=n4
-11	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	22	obl	_	LiLaflcat=p
+11	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	22	obl:arg	_	LiLaflcat=p
 12	luctificus	luctificus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	13	amod	_	LiLaflcat=n6
 13	Auster	auster	PROPN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Met|Number=Sing	22	nsubj	_	LASLAVariant=N|LiLaflcat=n2
 14	nec	nec	CCONJ	S	Polarity=Neg	18	cc	_	LASLAVariant=2|LiLaflcat=i
