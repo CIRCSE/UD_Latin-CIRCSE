@@ -65,7 +65,7 @@
 27	ac	ac	CCONJ	S	_	28	cc	_	LASLAVariant=1|LiLaflcat=i
 28	ponto	pontus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	26	conj	_	LiLaflcat=n2
 29	gregem	grex	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	32	obj	_	LiLaflcat=n3
-30	passim	passim	ADV	M	Degree=Pos	31	advmod	_	LiLaflcat=i
+30	passim	passim	ADV	M	Degree=Pos	31	advmod:lmod	_	LiLaflcat=i
 31	uagantes	uagor	VERB	B1	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	32	advcl	_	LASLAVariant=2|LiLaflcat=v1
 32	exerunt	exsero	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	LASLAVariant=2|LiLaflcat=v3
 33	Atlantides	atlantides	PROPN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|NameType=Giv|Number=Plur	32	nsubj	_	LASLAVariant=N|LiLaflcat=n3
