@@ -141,7 +141,7 @@
 13	a	ah	INTJ	U	_	18	discourse	_	LiLaflcat=i
 14	sparsa	spargo	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	11	acl	_	LASLAVariant=2|LiLaflcat=v3
 15	impiis	impius	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	12	amod	_	LiLaflcat=n6
-16	quotiens	quotiens	ADV	O	NumType=Mult|PronType=Int	18	advmod	_	LASLAVariant=2|LiLaflcat=i
+16	quotiens	quotiens	ADV	O	NumType=Mult|PronType=Int	18	advmod:tmod	_	LASLAVariant=2|LiLaflcat=i
 17	nouercam	nouerca	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	18	xcomp	_	LiLaflcat=n1
 18	fecit	facio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	LiLaflcat=v5
 
@@ -9547,7 +9547,7 @@
 7	resume	resumo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 8	nunc	nunc	ADV	M	Degree=Pos	12	advmod:tmod	_	LiLaflcat=i
 9	magna	magnus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	11	amod	_	LiLaflcat=n6
-10	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	12	obl:arg	_	LiLaflcat=p
+10	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	12	obl:agent	_	LiLaflcat=p
 11	uirtute	uirtus	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	12	obl	_	LiLaflcat=n3
 12	agendum	ago	VERB	B3	Aspect=Prosp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Gdv|Voice=Pass	7	conj	_	LiLaflcat=v3
 13	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	LASLAVariant=1|LiLaflcat=v6
