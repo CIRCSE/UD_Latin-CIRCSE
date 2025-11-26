@@ -476,7 +476,7 @@
 2	sed	sed	CCONJ	S	_	4	cc	_	LiLaflcat=i
 3	nimium	nimium	ADV	M	Degree=Pos	1	advmod	_	LASLAVariant=2|LiLaflcat=i
 4	queror	queror	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
-5	caelo	caelum	NOUN	A2	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl:arg	_	LASLAVariant=1|LiLaflcat=n2
+5	caelo	caelum	NOUN	A2	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl:agent	_	LASLAVariant=1|LiLaflcat=n2
 6	timendum	timeo	VERB	B2	Aspect=Prosp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Gdv|Voice=Pass	4	conj	_	LiLaflcat=v2
 7	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	LASLAVariant=1|LiLaflcat=v6
 8	regna	regnum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	11	obj	_	LiLaflcat=n2
@@ -806,7 +806,7 @@
 18	magno	magnus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	19	amod	_	LiLaflcat=n6
 19	furore	furor	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	20	obl:agent	_	LASLAVariant=1|LiLaflcat=n3
 20	percitus	percieo	VERB	B2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	16	advcl:pred	_	LiLaflcat=v2
-21	uobis	uos	PRON	E	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs	23	obl:arg	_	LiLaflcat=p
+21	uobis	uos	PRON	E	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs	23	obl:agent	_	LiLaflcat=p
 22	prius	prius	ADV	D5	AdvType=Tim|Degree=Cmp|NumType=Ord	23	advmod:tmod	_	LiLaflcat=i
 23	insaniendum	insanio	VERB	B4	Aspect=Prosp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatI|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Gdv|Voice=Pass	1	conj	_	LiLaflcat=v4
 24	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	LASLAVariant=1|LiLaflcat=v6

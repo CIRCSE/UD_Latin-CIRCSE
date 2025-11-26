@@ -4912,7 +4912,7 @@
 # sent_id = SenAgamn-P-21-248
 # text = miseris colendos maxime superos putem
 # speaker = Chorus_Iliadum
-1	miseris	miser	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur	2	obl	_	LiLaflcat=n6
+1	miseris	miser	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurA,IndEurO|Number=Plur	2	obl:agent	_	LiLaflcat=n6
 2	colendos	colo	VERB	B3	Aspect=Prosp|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Gdv|Voice=Pass	5	ccomp	_	LASLAVariant=2|LiLaflcat=v3
 3	maxime	magis	ADV	M	Degree=Abs	2	advmod	_	LASLAVariant=2|LiLaflcat=i
 4	superos	superi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	2	nsubj:pass	_	LiLaflcat=n2
