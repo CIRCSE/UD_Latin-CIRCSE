@@ -2198,7 +2198,7 @@
 2	quod	qui	PRON	J	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	3	obj	_	LASLAVariant=1|LiLaflcat=p
 3	metuunt	metuo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp:relcl	_	LiLaflcat=v3
 4	nimis	nimis	ADV	M	Degree=Pos	3	advmod	_	LiLaflcat=i
-5	numquam	numquam	ADV	P	Polarity=Neg	7	advmod	_	LiLaflcat=i
+5	numquam	numquam	ADV	P	Polarity=Neg	7	advmod:tmod	_	LiLaflcat=i
 6	moueri	moueo	VERB	B2	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	7	xcomp	_	LiLaflcat=v2
 7	posse	possum	VERB	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	3	ccomp	_	LASLAVariant=1|LiLaflcat=v6
 8	nec	nec	CCONJ	S	Polarity=Neg	9	cc	_	LASLAVariant=2|LiLaflcat=i
