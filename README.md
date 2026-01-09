@@ -6,7 +6,7 @@ The repository includes prose and poetry texts from different periods.
 
 # Introduction
 
-This treebank repository is a work in progress collective endeavour. Presently, it contains the following annotated texts: Seneca *Hercules Furens*, Seneca *Agamemnon*, Tacitus *Germania*.
+This treebank repository is a work in progress collective endeavour. Presently, it contains the following annotated texts: Seneca *Hercules Furens*, Seneca *Agamemnon*, Seneca *Oedipus*, Tacitus *Germania*.
 
 #### Seneca *Hercules Furens*
 
@@ -59,6 +59,14 @@ In cases of reported speech, the character who utters the reported speech is lis
 #speaker = Danai (Eurybates)
 
 
+#### Seneca *Oedipus*
+
+*Oedipus* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the *Opera Latina* corpus built by the  [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
+In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_Oed_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_Oed_LASLA_CIRCSE.md).
+The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.
+The text (5931 tokens, 401 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence.
+
+
 #### Tacitus *Germania*
 
 *Germania* is a treatise written by Cornelius Tacitus between 1st and 2nd century CE.
@@ -68,13 +76,14 @@ The text consists of 5674 tokens, 299 sentences.
 
 In few cases, the sentence splitting differs from the [received one](http://github.com/CIRCSE/LASLA); deviations from the received annotation are detailed in the file [Tacitus_Ger_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/Tacitus_Germania_LASLA_CIRCSE.md).
 
+Since release 2.17, the text has been enhanced with enhanced annotation for ellipsis.
+In few cases, the reconstruction of nodes benefitted from commentaries, as detailed in what follows:
 
-#### Seneca *Oedipus*
+\# sent_id = TacGerma-Q-01-112-5.1 following Wolff 1907:48 *ad* 19.9 (Wolff, E. (1907) *Tacitus Germania*. Leipzig, Berlin: Teubner)
 
-*Oedipus* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the *Opera Latina* corpus built by the  [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
-In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_Oed_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_Oed_LASLA_CIRCSE.md).
-The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.
-The text (5931 tokens, 401 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence.
+\# sent_id = TacGerma-Q-01-212-4.1 following Wolff 1907:84 *ad* 36.5 (Wolff, E. (1907) *Tacitus Germania*. Leipzig, Berlin: Teubner
+
+\# sent_id = TacGerma-Q-01-153-8.1 following Hutton et al. 1914 *ad* 25, 2 (Hutton, M. et al. (1914) *Tacitus. Agricola. Germania. Dialogue on Oratory.* Cambridge (MA): Harvard University Press); Perret 1967 *ad* 25 (Perret, J. (1967) *La Germanie*. Paris: Les Belles Lettres); Winterbottom, Ogiluie 1975 *ad* 25 (Winterbottom, M., Ogiluie, R. (1975) *Cornelii Taciti: Opera minora*. Oxford: Oxford University Press); Önnerfors 1983: *ad* 25, 1 (Önnerfors, A. (1983) *De origine et situ Germanorum liber*. Berlin, Boston: De Gruyter)
 
 
 Since the UD_Latin-CIRCSE treebank is a work in progress, its structure is subject to changes.
@@ -82,5 +91,5 @@ Since the UD_Latin-CIRCSE treebank is a work in progress, its structure is subje
 
 # Acknowledgments
 
-The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in the framework of the _LiLa: Linking Latin_ project. LiLa has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994. Warmful thanks to Federica Gamba and Flavio Massimiliano Cecchini for their support and precious advices during the annotation process.  
+The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in the framework of the _LiLa: Linking Latin_ project. LiLa has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994. Warmful thanks to Federica Gamba and Flavio Massimiliano Cecchini for their support and precious advices during the annotation process; warmful thanks to Lisa Sophie Albertelli, Lorenzo Augello, Annachiara Clementelli, and Giulia Calvi for enhanced annotation of Tacitus *Germania*.
 The maintenance of the treebank benefits from the partecipation to [UniDive COST Action CA21167](https://unidive.lisn.upsaclay.fr/).
