@@ -2961,7 +2961,7 @@
 8	pelago	pelagus	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	12	obl	_	LiLaflcat=n2
 9	damna	damnum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	12	obj	_	LiLaflcat=n2
 10	quam	quam	SCONJ	N	PronType=Rel	11	mark	_	LASLAVariant=1|LiLaflcat=i
-11	bello	bellum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	7	obl:cmp	_	LiLaflcat=n2
+11	bello	bellum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	7	advcl:cmp	_	LiLaflcat=n2
 12	tulit	fero	VERB	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v6
 13-14	remeatque	_	_	_	_	_	_	_	_
 13	remeat	remeo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	LiLaflcat=v1
