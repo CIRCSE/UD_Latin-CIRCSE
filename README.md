@@ -83,8 +83,11 @@ In few cases, the reconstruction of nodes benefitted from commentaries, as detai
 
 \# sent_id = TacGerma-Q-01-212-4.1 following Wolff 1907:84 *ad* 36.5 (Wolff, E. (1907) *Tacitus Germania*. Leipzig, Berlin: Teubner
 
-\# sent_id = TacGerma-Q-01-153-8.1 following Hutton et al. 1914 *ad* 25, 2 (Hutton, M. et al. (1914) *Tacitus. Agricola. Germania. Dialogue on Oratory.* Cambridge (MA): Harvard University Press); Perret 1967 *ad* 25 (Perret, J. (1967) *La Germanie*. Paris: Les Belles Lettres); Winterbottom, Ogiluie 1975 *ad* 25 (Winterbottom, M., Ogiluie, R. (1975) *Cornelii Taciti: Opera minora*. Oxford: Oxford University Press); Önnerfors 1983: *ad* 25, 1 (Önnerfors, A. (1983) *De origine et situ Germanorum liber*. Berlin, Boston: De Gruyter)
-
+\# sent_id = TacGerma-Q-01-153-8.1 following, among others:  
+Hutton et al. 1914 *ad* 25, 2 (Hutton, M. et al. (1914) *Tacitus. Agricola. Germania. Dialogue on Oratory.* Cambridge (MA): Harvard University Press);  
+Perret 1967 *ad* 25 (Perret, J. (1967) *La Germanie*. Paris: Les Belles Lettres);  
+Winterbottom, Ogiluie 1975 *ad* 25 (Winterbottom, M., Ogiluie, R. (1975) *Cornelii Taciti: Opera minora*. Oxford: Oxford University Press);  
+Önnerfors 1983: *ad* 25, 1 (Önnerfors, A. (1983) *De origine et situ Germanorum liber*. Berlin, Boston: De Gruyter) 
 
 Since the UD_Latin-CIRCSE treebank is a work in progress, its structure is subject to changes.
 
