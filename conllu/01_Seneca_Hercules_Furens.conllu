@@ -8156,7 +8156,7 @@
 3	obsessa	obsideo	VERB	B2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	1	acl	_	LiLaflcat=v2
 4	malis	malum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	3	obl:agent	_	LASLAVariant=1|LiLaflcat=n2
 5	non	non	PART	P	Polarity=Neg	8	advmod:neg	_	LiLaflcat=i
-6	sunt	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	LASLAVariant=1|LiLaflcat=v6
+6	sunt	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	LASLAVariant=1|LiLaflcat=v6
 7	ictu	ictus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	8	obl:agent	_	LiLaflcat=n4
 8	ferienda	ferio	VERB	B4	Aspect=Prosp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatI|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Gdv|Voice=Pass	0	root	_	LiLaflcat=v4
 9	leui	leuis	ADJ	C4	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	7	amod	_	LASLAVariant=1|LiLaflcat=n7
