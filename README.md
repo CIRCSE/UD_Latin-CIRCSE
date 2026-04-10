@@ -6,7 +6,7 @@ The repository includes prose and poetry texts from different periods.
 
 # Introduction
 
-This treebank repository is a work in progress collective endeavour. Presently, it contains the following annotated texts: Seneca *Hercules Furens*, Seneca *Agamemnon*, Seneca *Oedipus*, Tacitus *Germania*.
+This treebank repository is a work in progress collective endeavour. Presently, it contains the following annotated texts: Seneca *Hercules Furens*, Seneca *Agamemnon*, Seneca *Oedipus*, Seneca *Phoenissae*, Tacitus *Germania*.
 
 #### Seneca *Hercules Furens*
 
@@ -36,9 +36,9 @@ In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with reg
 The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.
 The text (5580 tokens, 409 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
-#sent_id = Latin_SenecaYounger_Ag_poetry-1
+#sent_id = Latin_SenecaYounger_Ag_poetry-1 
 
-#text = opaca linquens Ditis inferni loca adsum profundo Tartari emissus specu incertus utras oderim sedes magis fugio Thyestes inferos superos fugo
+#text = opaca linquens Ditis inferni loca adsum profundo Tartari emissus specu incertus utras oderim sedes magis fugio Thyestes inferos superos fugo 
 
 #speaker = Thyestis umbra
 
@@ -74,19 +74,19 @@ In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with reg
 The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme. 
 The text (4155 tokens, 308 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
-# sent_id = Latin_SenecaYounger_Phoen_poetry-1
+#sent_id = Latin_SenecaYounger_Phoen_poetry-1
 
-# text = caeci parentis regimen et fessi unicum lateris leuamen gnata quam tanti est mihi genuisse uel sic desere infaustum patrem
+#text = caeci parentis regimen et fessi unicum lateris leuamen gnata quam tanti est mihi genuisse uel sic desere infaustum patrem
 
-# speaker = Oedipus
+#speaker = Oedipus
 
 In cases where more than one speaker utters words in the same sentence, the indication of speakers details the distribution of tokens between the speakers, as exemplified in what follows:
 
-# sent_id = Latin_SenecaYounger_Phoen_poetry-241 
+#sent_id = Latin_SenecaYounger_Phoen_poetry-241 
 
-# text = dixit inridens deus ipsum timebis
+#text = dixit inridens deus ipsum timebis
 
-# speaker = Iocasta (token 1-3), deus (token 4-5)
+#speaker = Iocasta (token 1-3), deus (token 4-5)
 
 
 #### Tacitus *Germania*
