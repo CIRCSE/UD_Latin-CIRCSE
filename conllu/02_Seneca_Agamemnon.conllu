@@ -5618,7 +5618,7 @@
 4	optatus	opto	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	LiLaflcat=v1
 5	ille	ille	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	6	det	_	LiLaflcat=p
 6	portus	portus	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	8	nsubj	_	LiLaflcat=n4
-7	aerumnis	aerumna	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	6	obl	_	LiLaflcat=n1
+7	aerumnis	aerumna	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	6	nmod	_	LiLaflcat=n1
 8	adest	assum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	LASLAVariant=1|LiLaflcat=v6
 
 # sent_id = SenAgamn-P-21-290
