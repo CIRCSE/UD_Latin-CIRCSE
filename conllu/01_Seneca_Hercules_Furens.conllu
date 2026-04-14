@@ -4077,7 +4077,7 @@
 26	Mors	mors	PROPN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	33	nsubj	_	LASLAVariant=N|LiLaflcat=n3
 27	auidis	auidus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	29	amod	_	LiLaflcat=n6
 28	pallida	pallidus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	26	amod	_	LiLaflcat=n6
-29	dentibus	dens	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Plur	26	obl	_	LiLaflcat=n3
+29	dentibus	dens	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Plur	26	nmod	_	LiLaflcat=n3
 30	gentes	gens	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur	33	obj	_	LiLaflcat=n3
 31	innumeras	innumerus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	30	amod	_	LiLaflcat=n6
 32	Manibus	manes	PROPN	A3	Case=Dat|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	33	obl	_	LASLAVariant=N|LiLaflcat=n3
