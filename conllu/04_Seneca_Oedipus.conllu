@@ -2975,14 +2975,14 @@
 15	falsos	falsus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	17	amod	_	LiLaflcat=n6
 16	imitatus	imitor	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	14	advcl:pred	_	LiLaflcat=v1
 17	artus	artus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	16	obj	_	LASLAVariant=1|LiLaflcat=n4
-18	crine	crinis	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Sing	21	obl	_	LiLaflcat=n3
+18	crine	crinis	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Sing	21	nmod	_	LiLaflcat=n3
 19	flauenti	flaueo	VERB	B2	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	18	acl	_	LiLaflcat=v2
 20	simulata	simulo	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	21	acl	_	LiLaflcat=v1
 21	uirgo	uirgo	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	14	nsubj	_	LiLaflcat=n3
 22	lutea	luteus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	25	amod	_	LASLAVariant=2|LiLaflcat=n6
 23	uestem	uestis	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	24	obj	_	LiLaflcat=n3
 24	retinente	retineo	VERB	B2	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	25	acl	_	LiLaflcat=v2
-25	zona	zona	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	21	obl	_	LiLaflcat=n1
+25	zona	zona	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	21	nmod	_	LiLaflcat=n1
 26	inde	inde	ADV	M	Degree=Pos	29	advmod	_	LiLaflcat=i
 27	tam	tam	ADV	M	Degree=Pos	28	amod	_	LiLaflcat=i
 28	molles	mollis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	30	amod	_	LiLaflcat=n7
