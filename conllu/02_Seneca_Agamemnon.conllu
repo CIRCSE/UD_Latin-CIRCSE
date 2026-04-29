@@ -2924,7 +2924,7 @@
 4	et	et	CCONJ	S	_	5	cc	_	LASLAVariant=2|LiLaflcat=i
 5	obtestor	obtestor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	LiLaflcat=v1
 6	deos	deus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	5	obj	_	LiLaflcat=n2
-7	nam	nam	PART	S	_	13	cc	_	LiLaflcat=i
+7	nam	nam	PART	S	_	13	discourse	_	LiLaflcat=i
 8	certa	certum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	9	obj	_	LASLAVariant=1|LiLaflcat=n2
 9	fari	for	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	13	xcomp	_	LiLaflcat=v1
 10	sors	sors	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	13	nsubj	_	LiLaflcat=n3
