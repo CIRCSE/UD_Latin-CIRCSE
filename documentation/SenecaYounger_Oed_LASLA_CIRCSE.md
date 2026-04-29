@@ -131,6 +131,12 @@ LASLA: FEATS Gender=Fem,Masc
 
 CIRCSE: FEATS Gender=Neut (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
+token\_id: Latin_SenecaYounger_Oed_poetry-171-10 (senex)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
 token\_id: Latin_SenecaYounger_Oed_poetry-188-46 (o)
 
 LASLA: INTJ
