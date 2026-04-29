@@ -5567,7 +5567,7 @@
 13	medio	medius	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	12	amod	_	LiLaflcat=n6
 14	faucibus	faux	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Plur	17	obl	_	LiLaflcat=n3
 15	siccis	siccus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	14	amod	_	LiLaflcat=n6
-16	senex	senex	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	17	nsubj	_	LASLAVariant=1|LiLaflcat=n3
+16	senex	senex	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	17	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 17	sectatur	sector	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	conj	_	LASLAVariant=2|LiLaflcat=v1
 18	undas	unda	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	17	obj	_	LiLaflcat=n1
 19	alluit	alluo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LiLaflcat=v3
