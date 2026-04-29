@@ -2595,9 +2595,9 @@
 1	pacem	pax	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	2	nsubj:pass	_	LiLaflcat=n3
 2	reduci	reduco	VERB	B3	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	3	ccomp	_	LiLaflcat=v3
 3	uelle	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	5	csubj	_	LASLAVariant=3|LiLaflcat=v6
-4	uictori	uictor	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	3	obl:arg	_	LiLaflcat=n3
+4	uictori	uictor	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	5	obl	_	LiLaflcat=n3
 5	expedit	expedio	VERB	B4	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v4
-6	uicto	uinco	VERB	B3	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	obl:arg	_	LiLaflcat=v3
+6	uicto	uinco	VERB	B3	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	obl	_	LiLaflcat=v3
 7	necesse	necesse	ADJ	C6	Degree=Pos|InflClass=Ind	5	conj	_	LiLaflcat=n
 8	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	LASLAVariant=1|LiLaflcat=v6
 
