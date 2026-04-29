@@ -2643,7 +2643,7 @@
 37-38	lassique	_	_	_	_	_	_	_	_
 37	lassi	lassus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	36	conj	_	LiLaflcat=n6
 38	que	que	CCONJ	S	_	37	cc	_	LiLaflcat=i
-39	senes	senex	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	42	nsubj	_	LASLAVariant=1|LiLaflcat=n3
+39	senes	senex	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Plur	42	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 40	compote	compos	ADJ	C2	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurX|Number=Sing	41	amod	_	LiLaflcat=n7
 41	uoto	uotum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	42	obl	_	LiLaflcat=n2
 42	reddunt	reddo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	LiLaflcat=v3
