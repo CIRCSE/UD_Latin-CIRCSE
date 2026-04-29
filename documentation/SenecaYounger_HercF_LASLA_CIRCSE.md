@@ -114,12 +114,24 @@ LASLA: FEATS Gender=Fem,Masc
 CIRCSE: FEATS Gender=Neut (following Vollmer 1924) Vollmer 1924. fūnus, -eris n. Thesaurus Linguae Latinae Online, vol. 6, 1, pp. 1600-1606. Berlin, New York: De Gruyter.
 
 
-
 token_id: Latin_SenecaYounger_HercF_poetry-267-19 (horrida) 
 
 LASLA: FEATS Case=Abl|Gender=Fem|Number=Sing. 
 
 CIRCSE: FEATS Case=Nom|Gender=Neut|Number=Plur (following Fitch 1987; Billerbeck 1999) Fitch, J. G. (1987). Seneca’s Hercules Furens. Ithaca (N.Y.): Cornell University Press. Billerbeck, M. (1999). Hercules furens. Leiden: Brill.
+
+
+token_id: Latin_SenecaYounger_HercF_poetry-284-16 (senex)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+token_id: Latin_SenecaYounger_HercF_poetry-289-13 (senex)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 token_id: Latin_SenecaYounger_HercF_poetry-295-9 (multo)
