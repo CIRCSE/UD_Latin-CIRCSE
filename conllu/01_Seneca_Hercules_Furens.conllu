@@ -5579,7 +5579,7 @@
 24	cum	cum	SCONJ	T	_	28	mark	_	LASLAVariant=3|LiLaflcat=i
 25	iam	iam	ADV	M	Degree=Pos	26	advmod:tmod	_	LiLaflcat=i
 26	saepe	saepe	ADV	M	Degree=Pos	27	advmod	_	LiLaflcat=i
-27	decepto	decipio	VERB	B5	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Neut|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	28	advcl:abs	_	LiLaflcat=v5
+27	decepto	decipio	VERB	B5	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Neut|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	28	obl:arg	_	LiLaflcat=v5
 28	dedit	do	VERB	B1	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	advcl	_	LiLaflcat=v1
 29	perit	pereo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LASLAVariant=1|LiLaflcat=v6
 30	unda	unda	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	29	nsubj	_	LiLaflcat=n1
