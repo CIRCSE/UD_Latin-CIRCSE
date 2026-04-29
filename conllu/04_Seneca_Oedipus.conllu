@@ -5283,7 +5283,7 @@
 40	nimium	nimium	ADV	M	Degree=Pos	41	advmod	_	LASLAVariant=2|LiLaflcat=i
 41	saeui	saeuus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	43	amod	_	LiLaflcat=n6
 42	diua	diua	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	38	nsubj	_	LiLaflcat=n1
-43	pudoris	pudor	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	42	obl	_	LiLaflcat=n3
+43	pudoris	pudor	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	42	nmod	_	LiLaflcat=n3
 
 # sent_id = SenOedip-P-20-229
 # text = curas reuoluit animus et repetit metus
