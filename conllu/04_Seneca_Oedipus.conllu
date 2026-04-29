@@ -1336,7 +1336,7 @@
 # speaker = Chorus
 1-2	quisnam	_	_	_	_	_	_	_	_
 1	quis	quis	PRON	K	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Int	3	nsubj	_	LiLaflcat=p
-2	nam	nam	ADV	M	_	3	advmod	_	LiLaflcat=i
+2	nam	nam	ADV	M	_	3	discourse	_	LiLaflcat=i
 3	ille	ille	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	0	root	_	LiLaflcat=p
 4	propero	properus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	_	LiLaflcat=n6
 5	regiam	regia	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	7	obj	_	LiLaflcat=n1
