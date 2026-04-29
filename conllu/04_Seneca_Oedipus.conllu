@@ -6231,7 +6231,7 @@
 13	uera	uerum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	12	obj	_	LASLAVariant=1|LiLaflcat=n2
 14-15	quisnam	_	_	_	_	_	_	_	_
 14	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int	12	conj	_	LiLaflcat=p
-15	nam	nam	ADV	M	_	12	discourse	_	LiLaflcat=i
+15	nam	nam	ADV	M	_	14	discourse	_	LiLaflcat=i
 
 # sent_id = SenOedip-P-20-312
 # text = quoue generatus patre
