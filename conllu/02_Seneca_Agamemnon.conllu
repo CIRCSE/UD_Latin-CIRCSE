@@ -6572,7 +6572,7 @@
 # speaker = Strophius
 1-2	quaenam	_	_	_	_	_	_	_	_
 1	quae	quis	PRON	K	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Int	3	nsubj	_	LiLaflcat=p
-2	nam	nam	ADV	M	_	3	advmod	_	LiLaflcat=i
+2	nam	nam	ADV	M	_	3	discourse	_	LiLaflcat=i
 3	ista	iste	DET	I	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	0	root	_	LiLaflcat=p
 4	lacrimis	lacrima	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	7	obl	_	LiLaflcat=n1
 5	lugubrem	lugubris	ADJ	C4	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	6	amod	_	LiLaflcat=n7
