@@ -5470,7 +5470,7 @@
 1	et	et	CCONJ	S	_	10	cc	_	LASLAVariant=2|LiLaflcat=i
 2	ecce	ecce	INTJ	U	_	10	discourse	_	LiLaflcat=i
 3	defessus	defessus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	4	amod	_	LiLaflcat=n6
-4	senex	senex	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	10	nsubj	_	LASLAVariant=1|LiLaflcat=n3
+4	senex	senex	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	10	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 5	ad	ad	ADP	R	AdpType=Prep	6	case	_	LASLAVariant=2|LiLaflcat=i
 6	ora	os	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Plur	7	obl:lmod	_	LASLAVariant=1|LiLaflcat=n3
 7	ludentes	ludo	VERB	B3	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	8	acl	_	LiLaflcat=v3
