@@ -5,6 +5,14 @@ The text of Seneca's Agamemnon was received with tokenisation, and annotation wi
 Deviations from source data are detailed in what follows:
 
 
+token_id: Latin_SenecaYounger_Ag_poetry-6-48 (senex)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+
+
 token_id: Latin_SenecaYounger_Ag_poetry-18-1 (quid)
 
 LASLA: PRON
@@ -66,6 +74,14 @@ token_id: Latin_SenecaYounger_Ag_poetry-64-1 (o)
 LASLA: INTJ
 
 CIRCSE: PART (following Gamba, Zeman 2023) Gamba, Zeman 2023. Universalising Latin Universal Dependencies: a harmonisation of Latin treebanks in UD. In Proceedings of the Sixth Workshop on Universal Dependencies (UDW, GURT/SyntaxFest 2023), pp. 7–16, Washington, D.C.. Association for Computational Linguistics.
+
+
+
+token_id: Latin_SenecaYounger_Ag_poetry-68-10 (senex)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -213,6 +229,13 @@ CIRCSE: FEATS Gender=Fem (following Glare 1968) Glare , P. G. W. (ed.) (1968). O
 
 
 
+token_id: Latin_SenecaYounger_Ag_poetry-143-39 (senes)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+
 token_id: Latin_SenecaYounger_Ag_poetry-145-5 (uictricem)
 
 LASLA: FEATS Gender=Neut
@@ -261,6 +284,14 @@ CIRCSE: PART (following Gamba, Zeman 2023) Gamba, Zeman 2023. Universalising Lat
 
 
 
+token_id: Latin_SenecaYounger_Ag_poetry-240-3 (senis)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
+
+
+
 token_id: Latin_SenecaYounger_Ag_poetry-246-17 (Ceyca)
 
 LASLA: FEATS Gender=Fem
@@ -290,6 +321,14 @@ token_id: Latin_SenecaYounger_Ag_poetry-255-2 (nempe)
 LASLA: ADV
 
 CIRCSE: PART
+
+
+
+token_id: Latin_SenecaYounger_Ag_poetry-255-5 (senes)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
@@ -354,6 +393,14 @@ token_id: Latin_SenecaYounger_Ag_poetry-276-11 (uictricem)
 LASLA: FEATS Gender=Neut
 
 CIRCSE: FEATS Gender=Fem
+
+
+
+token_id: Latin_SenecaYounger_Ag_poetry-280-4 (senex)
+
+LASLA: FEATS Gender=Neut
+
+CIRCSE: FEATS Gender=Masc (following Glare 1968) Glare, P. G. W. (ed.) (1968). Oxford Latin Dictionary. Oxford: Oxford University Press.
 
 
 
