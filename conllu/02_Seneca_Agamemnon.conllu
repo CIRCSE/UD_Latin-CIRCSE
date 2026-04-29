@@ -4993,7 +4993,7 @@
 2	nempe	nempe	PART	M	Form=Emp	1	discourse	_	LiLaflcat=i
 3	regia	regia	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	7	obl:lmod	_	LiLaflcat=n1
 4	miseri	miser	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	5	amod	_	LiLaflcat=n6
-5	senes	senex	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	7	nsubj	_	LASLAVariant=1|LiLaflcat=n3
+5	senes	senex	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Plur	7	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 6	uacua	uacuus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	_	LiLaflcat=n6
 7	relicti	relinquo	VERB	Y3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	1	conj	_	LiLaflcat=v3|Tac=sunt
 8-9	totque	_	_	_	_	_	_	_	_
