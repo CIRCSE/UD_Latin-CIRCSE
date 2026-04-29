@@ -415,7 +415,7 @@
 14-15	iuuenesque	_	_	_	_	_	_	_	_
 14	iuuenes	iuuenis	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur	17	obj	_	LASLAVariant=1|LiLaflcat=n3
 15	que	que	CCONJ	S	_	16	cc	_	LiLaflcat=i
-16	senibus	senex	NOUN	A3	Case=Dat|Gender=Neut|InflClass=IndEurX|Number=Plur	17	obl	_	LASLAVariant=1|LiLaflcat=n3
+16	senibus	senex	NOUN	A3	Case=Dat|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Plur	17	obl	_	LASLAVariant=1|LiLaflcat=n3
 17	iungit	iungo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LiLaflcat=v3
 18	et	et	CCONJ	S	_	20	cc	_	LASLAVariant=2|LiLaflcat=i
 19	gnatis	natus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	20	orphan	_	LASLAVariant=1|LiLaflcat=n2
@@ -3836,7 +3836,7 @@
 7	cultu	cultus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	9	obl	_	LASLAVariant=1|LiLaflcat=n4
 8	maestus	maestus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	9	advcl:pred	_	LiLaflcat=n6
 9	ingreditur	ingredior	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	LiLaflcat=v5
-10	senex	senex	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	9	nsubj	_	LASLAVariant=1|LiLaflcat=n3
+10	senex	senex	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 11	mortifera	mortifer	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	13	amod	_	LiLaflcat=n6
 12	canam	canus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	15	amod	_	LiLaflcat=n6
 13	taxus	taxus	NOUN	A2	Case=Nom|Gender=Fem|InflClass=IndEurO|Number=Sing	14	nsubj	_	LiLaflcat=n2
