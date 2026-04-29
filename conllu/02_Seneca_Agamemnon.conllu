@@ -1755,7 +1755,7 @@
 16	casta	castus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	18	amod	_	LASLAVariant=2|LiLaflcat=n6
 17	repetatur	repeto	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	LiLaflcat=v3
 18	fides	fides	NOUN	A5	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing	17	nsubj	_	LASLAVariant=2|LiLaflcat=n5
-19	nam	nam	PART	S	_	20	cc	_	LiLaflcat=i
+19	nam	nam	PART	S	_	20	discourse	_	LiLaflcat=i
 20	sera	serus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	conj	_	LiLaflcat=n6
 21	numquam	numquam	ADV	P	Polarity=Neg	20	advmod:tmod	_	LiLaflcat=i
 22	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	LASLAVariant=1|LiLaflcat=v6
