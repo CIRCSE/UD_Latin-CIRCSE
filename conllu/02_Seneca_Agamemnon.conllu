@@ -150,7 +150,7 @@
 45	quota	quotus	DET	K	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|PronType=Int	44	det	_	LiLaflcat=p
 46	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	LASLAVariant=1|LiLaflcat=v6
 47	culpae	culpa	NOUN	A1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	44	nmod	_	LiLaflcat=n1
-48	senex	senex	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	44	nsubj	_	LASLAVariant=1|LiLaflcat=n3
+48	senex	senex	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	44	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 
 # sent_id = SenAgamn-P-21-7
 # text = reputemus omnes quos ob infandas manus quaesitor urna Gnosius uersat reos uincam Thyestes sceleribus cunctos meis
