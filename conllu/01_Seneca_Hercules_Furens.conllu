@@ -93,9 +93,9 @@
 17	Tyndaridae	tyndaridae	PROPN	A1	Case=Nom|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Plur	18	nsubj	_	LASLAVariant=N|LiLaflcat=n1
 18	micant	mico	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LiLaflcat=v1
 19-20	quibusque	_	_	_	_	_	_	_	_
-19	quibus	qui	PRON	J	Case=Dat|Gender=Fem,Masc|InflClass=LatPron|Number=Plur|PronType=Rel	21	nsubj	_	LASLAVariant=1|LiLaflcat=p
+19	quibus	qui	PRON	J	Case=Dat|Gender=Fem,Masc|InflClass=LatPron|Number=Plur|PronType=Rel	24	obl	_	LASLAVariant=1|LiLaflcat=p
 20	que	que	CCONJ	S	_	24	cc	_	LiLaflcat=i
-21	natis	nascor	VERB	B3	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Fem,Masc|InflClass=LatX|InflClass[nominal]=IndEurA,IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	24	advcl:abs	_	LiLaflcat=v3
+21	natis	nascor	VERB	B3	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Fem,Masc|InflClass=LatX|InflClass[nominal]=IndEurA,IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	19	acl	_	LiLaflcat=v3
 22	mobilis	mobilis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	23	amod	_	LiLaflcat=n7
 23	tellus	tellus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	24	nsubj	_	LiLaflcat=n3
 24	stetit	sto	VERB	B1	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	LiLaflcat=v1
