@@ -1255,8 +1255,8 @@
 6	Zminthea	zmintheus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|NameType=Rel|Number=Plur	8	amod	_	LASLAVariant=A|LiLaflcat=n6
 7	tenuit	teneo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
 8	spolia	spolium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	7	obj	_	LiLaflcat=n2
-9	Phoebei	phoebeus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurO|NameType=Rel|Number=Sing	10	amod	_	LASLAVariant=A|LiLaflcat=n6
-10	senis	senex	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	8	nmod	_	LASLAVariant=1|LiLaflcat=n3
+9	Phoebei	phoebeus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing	10	amod	_	LASLAVariant=A|LiLaflcat=n6
+10	senis	senex	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	8	nmod	_	LASLAVariant=1|LiLaflcat=n3
 11	ardore	ardor	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	16	obl	_	LiLaflcat=n3
 12	sacrae	sacer	ADJ	C1	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	13	amod	_	LiLaflcat=n6
 13	uirginis	uirgo	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	11	nmod	_	LiLaflcat=n3
