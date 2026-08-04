@@ -12,7 +12,7 @@ This treebank repository is a work in progress collective endeavour. Presently, 
 
 *Hercules Furens* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the *Opera Latina* corpus built by the [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
 In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_HercF_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_HercF_LASLA_CIRCSE.md)).
-The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme. 
+The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.  
 The text (7714 tokens, 555 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
 #sent_id = Latin_SenecaYounger_HercF_poetry-1
@@ -33,7 +33,7 @@ In cases where more than one speaker utters words in the same sentence, the indi
 
 *Agamemnon* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the *Opera Latina* corpus built by the [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
 In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_Ag_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_Ag_LASLA_CIRCSE.md).
-The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.
+The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.  
 The text (5580 tokens, 409 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
 #sent_id = Latin_SenecaYounger_Ag_poetry-1 
@@ -60,24 +60,24 @@ In cases of reported speech, the character who utters the reported speech is lis
 
 The text was enhanced with annotation of Conversation Analysis (CA) relevant features, such as interruptions. This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of speaker attribution, as exemplified in what follows:
 
-# sent_id = SenAgamn-P-21-366
-# text = quis esse credat uirginem
-# speaker = Clytemestra
-# interrupted TCU
+#sent_id = SenAgamn-P-21-366  
+#text = quis esse credat uirginem  
+#speaker = Clytemestra  
+#interrupted TCU
 
 When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is as follows:
 
-# sent_id = SenAgamn-P-21-367
-# text = natam tuam
-# speaker = Electra
-1	natam	nata	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	_	LiLaflcat=n1|Coconstruct=Yes
+#sent_id = SenAgamn-P-21-367  
+#text = natam tuam  
+#speaker = Electra  
+1	natam	nata	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	_	LiLaflcat=n1|Coconstruct=Yes  
 2	tuam	tuus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6|Coconstruct=Yes
 
 #### Seneca *Oedipus*
 
 *Oedipus* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the *Opera Latina* corpus built by the  [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
 In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_Oed_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_Oed_LASLA_CIRCSE.md).
-The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.
+The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.  
 The text (5931 tokens, 401 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence.
 
 
@@ -85,7 +85,7 @@ The text (5931 tokens, 401 sentences) was enhanced with the annotation of the sp
 
 *Phoenissae* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the *Opera Latina* corpus built by the [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
 In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_Phoen_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_Phoen_LASLA_CIRCSE.md)).
-The syntactic annotation was first performed automatically with a Stanza model retrained on UD_Latin-CIRCSE treebank v. 2.17 and then manually revised. 
+The syntactic annotation was first performed automatically with a Stanza model retrained on UD_Latin-CIRCSE treebank v. 2.17 and then manually revised.  
 The text (4155 tokens, 308 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
 #sent_id = Latin_SenecaYounger_Phoen_poetry-1
@@ -104,21 +104,21 @@ In cases where more than one speaker utters words in the same sentence, the indi
 
 The text was enhanced with annotation of Conversation Analysis (CA) relevant features, such as interruptions. This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of speaker attribution, as exemplified in what follows:
 
-# sent_id = SenPhoen-P-17-307
-# text = pro regno uelim patriam Penates coniugem flammis dare
-# speaker = Eteocles (token 1-3), Iocasta (4-8)
-# interrupted TCU (token 1-3)
+#sent_id = SenPhoen-P-17-307  
+#text = pro regno uelim patriam Penates coniugem flammis dare  
+#speaker = Eteocles (token 1-3), Iocasta (4-8)  
+#interrupted TCU (token 1-3)  
 
 When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is as follows:
 
-1	pro	pro	ADP	R	AdpType=Prep	2	case	_	_
-2	regno	regnum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	_
-3	uelim	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	patriam	patria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	_	Coconstruct=Yes
-5	Penates	penates	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	4	conj	_	Coconstruct=Yes
-6	coniugem	coniux	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	4	conj	_	Coconstruct=Yes
-7	flammis	flamma	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl:arg	_	Coconstruct=Yes
-8	dare	do	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	3	xcomp	_	Coconstruct=Yes
+1	pro	pro	ADP	R	AdpType=Prep	2	case	_	_  
+2	regno	regnum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	_  
+3	uelim	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_  
+4	patriam	patria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	_	Coconstruct=Yes  
+5	Penates	penates	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	4	conj	_	Coconstruct=Yes  
+6	coniugem	coniux	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	4	conj	_	Coconstruct=Yes  
+7	flammis	flamma	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl:arg	_	Coconstruct=Yes  
+8	dare	do	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	3	xcomp	_	Coconstruct=Yes  
 
 #### Tacitus *Germania*
 
