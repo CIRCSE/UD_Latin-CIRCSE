@@ -58,6 +58,20 @@ In cases of reported speech, the character who utters the reported speech is lis
 
 #speaker = Danai (Eurybates)
 
+The text was enhanced with annotation of Conversation Analysis (CA) relevant features, such as interruptions. This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of speaker attribution, as exemplified in what follows:
+
+# sent_id = SenAgamn-P-21-366
+# text = quis esse credat uirginem
+# speaker = Clytemestra
+# interrupted TCU
+
+When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is as follows:
+
+# sent_id = SenAgamn-P-21-367
+# text = natam tuam
+# speaker = Electra
+1	natam	nata	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	_	LiLaflcat=n1|Coconstruct=Yes
+2	tuam	tuus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6|Coconstruct=Yes
 
 #### Seneca *Oedipus*
 
@@ -88,6 +102,23 @@ In cases where more than one speaker utters words in the same sentence, the indi
 
 #speaker = Iocasta (token 1-3), deus (token 4-5)
 
+The text was enhanced with annotation of Conversation Analysis (CA) relevant features, such as interruptions. This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of speaker attribution, as exemplified in what follows:
+
+# sent_id = SenPhoen-P-17-307
+# text = pro regno uelim patriam Penates coniugem flammis dare
+# speaker = Eteocles (token 1-3), Iocasta (4-8)
+# interrupted TCU (token 1-3)
+
+When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is as follows:
+
+1	pro	pro	ADP	R	AdpType=Prep	2	case	_	_
+2	regno	regnum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	_
+3	uelim	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	patriam	patria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	_	Coconstruct=Yes
+5	Penates	penates	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	4	conj	_	Coconstruct=Yes
+6	coniugem	coniux	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	4	conj	_	Coconstruct=Yes
+7	flammis	flamma	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl:arg	_	Coconstruct=Yes
+8	dare	do	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	3	xcomp	_	Coconstruct=Yes
 
 #### Tacitus *Germania*
 

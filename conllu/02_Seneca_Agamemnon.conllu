@@ -6843,6 +6843,7 @@
 # sent_id = SenAgamn-P-21-366
 # text = quis esse credat uirginem
 # speaker = Clytemestra
+# interrupted TCU
 1	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int	3	nsubj	_	LASLAVariant=1|LiLaflcat=p
 2	esse	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf	4	cop	_	LASLAVariant=1|LiLaflcat=v6
 3	credat	credo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
@@ -6851,8 +6852,8 @@
 # sent_id = SenAgamn-P-21-367
 # text = natam tuam
 # speaker = Electra
-1	natam	nata	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	_	LiLaflcat=n1
-2	tuam	tuus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6
+1	natam	nata	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	_	LiLaflcat=n1|Coconstruct=Yes
+2	tuam	tuus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6|Coconstruct=Yes
 
 # sent_id = SenAgamn-P-21-368
 # text = modestius cum matre
