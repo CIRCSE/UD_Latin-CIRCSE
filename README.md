@@ -15,18 +15,14 @@ In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with reg
 The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.  
 The text (7714 tokens, 555 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
-#sent_id = Latin_SenecaYounger_HercF_poetry-1
-
-#text = soror Tonantis hoc enim solum mihi nomen relictum est semper alienum Iouem ac templa summi uidua deserui aetheris locumque caelo pulsa paelicibus dedi tellus colenda est paelices caelum tenent
-
+#sent_id = Latin_SenecaYounger_HercF_poetry-1  
+#text = soror Tonantis hoc enim solum mihi nomen relictum est semper alienum Iouem ac templa summi uidua deserui aetheris locumque caelo pulsa paelicibus dedi tellus colenda est paelices caelum tenent  
 #speaker = Iuno
 
 In cases where more than one speaker utters words in the same sentence, the indication of speakers details the distribution of tokens between the speakers, as exemplified in what follows:
 
-#sent_id = Latin_SenecaYounger_HercF_poetry-291
-
-#text = hic onere uacuam litori puppem applicans repetebat umbras poscit Alcides uiam cedente turba dirus exclamat Charon quo pergis audax
-
+#sent_id = Latin_SenecaYounger_HercF_poetry-291  
+#text = hic onere uacuam litori puppem applicans repetebat umbras poscit Alcides uiam cedente turba dirus exclamat Charon quo pergis audax  
 #speaker = Theseus (token 1-16), Charon (token 17-19)
 
 #### Seneca *Agamemnon*
@@ -36,26 +32,20 @@ In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with reg
 The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.  
 The text (5580 tokens, 409 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
-#sent_id = Latin_SenecaYounger_Ag_poetry-1 
-
-#text = opaca linquens Ditis inferni loca adsum profundo Tartari emissus specu incertus utras oderim sedes magis fugio Thyestes inferos superos fugo 
-
+#sent_id = Latin_SenecaYounger_Ag_poetry-1   
+#text = opaca linquens Ditis inferni loca adsum profundo Tartari emissus specu incertus utras oderim sedes magis fugio Thyestes inferos superos fugo  
 #speaker = Thyestis umbra
 
 In cases where more than one speaker utters words in the same sentence, the indication of speakers details the distribution of tokens between the speakers, as exemplified in what follows:
 
-#sent_id = Latin_SenecaYounger_Ag_poetry-199
-
-#text = sistito infestum mare uehit ista Danaos classis et Troas uehit nec plura possunt occupat uocem mare
-
+#sent_id = Latin_SenecaYounger_Ag_poetry-199  
+#text = sistito infestum mare uehit ista Danaos classis et Troas uehit nec plura possunt occupat uocem mare  
 #speaker = Danai (token 1-10), Eurybates (token 11-16)
 
 In cases of reported speech, the character who utters the reported speech is listed as first; the character reporting the speech is enclosed in round brackets, as exemplified in what follows, where the character named Eurybates reports words uttered by the people of Danai:
 
-#sent_id = Latin_SenecaYounger_Ag_poetry-194
-
-#text = nil nobile ausos pontus atque undae ferunt
-
+#sent_id = Latin_SenecaYounger_Ag_poetry-194  
+#text = nil nobile ausos pontus atque undae ferunt  
 #speaker = Danai (Eurybates)
 
 The text was enhanced with annotation of Conversation Analysis (CA) relevant features, such as interruptions. This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of speaker attribution, as exemplified in what follows:
@@ -78,7 +68,7 @@ When the interrupting utterance completes the interrupted utterance, the corresp
 *Oedipus* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the *Opera Latina* corpus built by the  [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
 In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_Oed_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_Oed_LASLA_CIRCSE.md).
 The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.  
-The text (5931 tokens, 401 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence.
+The text (5931 tokens, 401 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence. In cases of reported speech or more than one speaker uttering words in the same sentence, the annotation is performed as exemplified above for *Agamemnon*.
 
 
 ### Seneca *Phoenissae*
@@ -88,19 +78,11 @@ In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with reg
 The syntactic annotation was first performed automatically with a Stanza model retrained on UD_Latin-CIRCSE treebank v. 2.17 and then manually revised.  
 The text (4155 tokens, 308 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed, following the attribution as in Zwierlein 1986 (Zwierlein, O. (1986) *L. Annaei Senecae Tragoediae, Incertorum auctorum Hercules (Oetaeus), Octauia*. Oxford: Clarendon Press). This annotation, performed manually at CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
-#sent_id = Latin_SenecaYounger_Phoen_poetry-1
-
-#text = caeci parentis regimen et fessi unicum lateris leuamen gnata quam tanti est mihi genuisse uel sic desere infaustum patrem
-
+#sent_id = Latin_SenecaYounger_Phoen_poetry-1  
+#text = caeci parentis regimen et fessi unicum lateris leuamen gnata quam tanti est mihi genuisse uel sic desere infaustum patrem  
 #speaker = Oedipus
 
-In cases where more than one speaker utters words in the same sentence, the indication of speakers details the distribution of tokens between the speakers, as exemplified in what follows:
-
-#sent_id = Latin_SenecaYounger_Phoen_poetry-241 
-
-#text = dixit inridens deus ipsum timebis
-
-#speaker = Iocasta (token 1-3), deus (token 4-5)
+In cases of reported speech or more than one speaker uttering words in the same sentence, the annotation is performed as exemplified above for  *Agamemnon*.
 
 The text was enhanced with annotation of Conversation Analysis (CA) relevant features, such as interruptions. This annotation, performed manually at the CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of speaker attribution, as exemplified in what follows:
 
