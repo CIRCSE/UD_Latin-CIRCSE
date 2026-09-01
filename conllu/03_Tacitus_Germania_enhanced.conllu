@@ -4945,7 +4945,7 @@
 5-6	aequique	_	_	_	_	_	_	_	UniqueTokenId=TacGerma-Q-01-212_5-6
 5	aequi	aequus	ADJ	C1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	4	conj	4:conj	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-212_5
 6	que	que	CCONJ	S	_	5	cc	5:cc	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-212_6
-6.1	uocabantur	uoco	VERB	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	0:root	AntecPosit=0_TacGerma-Q-01-212_12
+6.1	uocabantur	uoco	VERB	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	0:root	Antec=Yes|AntecPosit=0_TacGerma-Q-01-212_12
 7	Cherusci	cherusci	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	12	nsubj:pass	12:nsubj:pass	LASLAVariant=N|LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-212_7
 8	nunc	nunc	ADV	M	AdvType=Tim	12	advmod:tmod	12:advmod:tmod	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-212_8
 9	inertes	iners	ADJ	C5	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Plur	12	xcomp	12:xcomp	LiLaflcat=n7|UniqueTokenId=TacGerma-Q-01-212_9
