@@ -55,7 +55,7 @@ The text was enhanced with annotation of Conversation Analysis (CA) relevant fea
 #speaker = Clytemestra  
 #interrupted TCU
 
-When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is as follows:
+When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is, according to Pannitto et al. 2026 [(Pannitto, L., et al. (2026) "Coconstructions in Spoken Data: UD Annotation Guidelines and First Results ." *Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026), European Language Resources Association (ELRA)*, pp. 60-75)](https://doi.org/10.63317/3kcohrckgnkz.), as follows:
 
 #sent_id = SenAgamn-P-21-367  
 #text = natam tuam  
