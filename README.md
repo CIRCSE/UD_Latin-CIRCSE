@@ -55,7 +55,16 @@ The text was enhanced with annotation of Conversation Analysis (CA) relevant fea
 #speaker = Clytemestra  
 #interrupted TCU
 
-When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is, according to Pannitto et al. 2026 [(Pannitto, L., et al. (2026) "Coconstructions in Spoken Data: UD Annotation Guidelines and First Results ." *Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026), European Language Resources Association (ELRA)*, pp. 60-75)](https://doi.org/10.63317/3kcohrckgnkz.), as follows:
+When the interrupting utterance completes the interrupted utterance, the corresponding values in the MISC column are, according to Pannitto et al. 2026 [(Pannitto, L., et al. (2026) "Coconstructions in Spoken Data: UD Annotation Guidelines and First Results ." *Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026), European Language Resources Association (ELRA)*, pp. 60-75)](https://doi.org/10.63317/3kcohrckgnkz.), as follows:
+
+#sent_id = SenAgamn-P-21-366  
+#text = quis esse credat uirginem  
+#speaker = Clytemestra  
+#interrupted TCU
+1	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int	3	nsubj	_	LASLAVariant=1|LiLaflcat=p
+2	esse	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf	4	cop	_	LASLAVariant=1|LiLaflcat=v6
+3	credat	credo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
+4	uirginem	uirgo	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	3	ccomp	_	LiLaflcat=n3|Scrap=Yes
 
 #sent_id = SenAgamn-P-21-367  
 #text = natam tuam  
@@ -91,16 +100,16 @@ The text was enhanced with annotation of Conversation Analysis (CA) relevant fea
 #speaker = Eteocles (token 1-3), Iocasta (4-8)  
 #interrupted TCU (token 1-3)  
 
-When the interrupting utterance completes the interrupted utterance, the corresponding value in the MISC column is as follows:
+When the interrupting utterance completes the interrupted utterance, the corresponding values in the MISC column are, according to Pannitto et al. 2026 [(Pannitto, L., et al. (2026) "Coconstructions in Spoken Data: UD Annotation Guidelines and First Results ." *Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026), European Language Resources Association (ELRA)*, pp. 60-75)](https://doi.org/10.63317/3kcohrckgnkz.), as follows:
 
-1	pro	pro	ADP	R	AdpType=Prep	2	case	_	_  
-2	regno	regnum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	_  
-3	uelim	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_  
-4	patriam	patria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	_	Coconstruct=Yes  
-5	Penates	penates	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	4	conj	_	Coconstruct=Yes  
-6	coniugem	coniux	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	4	conj	_	Coconstruct=Yes  
-7	flammis	flamma	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl:arg	_	Coconstruct=Yes  
-8	dare	do	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	3	xcomp	_	Coconstruct=Yes  
+1	pro	pro	ADP	R	AdpType=Prep	2	case	_	_
+2	regno	regnum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	_
+3	uelim	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Scrap=Yes
+4	patriam	patria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	_	Coconstruct=Yes
+5	Penates	penates	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	4	conj	_	Coconstruct=Yes
+6	coniugem	coniux	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	4	conj	_	Coconstruct=Yes
+7	flammis	flamma	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl:arg	_	Coconstruct=Yes
+8	dare	do	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	3	xcomp	_	Coconstruct=Yes
 
 #### Tacitus *Germania*
 
