@@ -5455,7 +5455,6 @@
 # text = pro regno uelim patriam Penates coniugem flammis dare
 # speaker = Eteocles (token 1-3), Iocasta (4-8)
 # interrupted TCU (token 1-3)
-
 1	pro	pro	ADP	R	AdpType=Prep	2	case	_	_
 2	regno	regnum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	_
 3	uelim	uolo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Scrap=Yes
