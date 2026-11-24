@@ -7495,14 +7495,14 @@
 # text = utrumne pectori infigam meo telum an patenti conditum iugulo inprimam
 # speaker = Iocasta
 1	utrumne	utrumne	ADV	O	PronType=Int	3	advmod	_	LiLaflcat=i
-2	pectori	pectus	NOUN	A3	Case=Dat|Gender=Neut|InflClass=IndEurX|Number=Sing	3	obl	_	LiLaflcat=n3
+2	pectori	pectus	NOUN	A3	Case=Dat|Gender=Neut|InflClass=IndEurX|Number=Sing	3	obl:lmod	_	LiLaflcat=n3
 3	infigam	infigo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 4	meo	meus	DET	F	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	2	det	_	LiLaflcat=n6
 5	telum	telum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obj	_	LiLaflcat=n2
 6	an	an	PART	O	Polarity=Neg	10	cc	_	LiLaflcat=i
 7	patenti	patens	ADJ	C5	Case=Dat|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	9	amod	_	LiLaflcat=n7
 8	conditum	condo	VERB	B3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	10	obj	_	LiLaflcat=v3
-9	iugulo	iugulum	NOUN	A2	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Sing	10	obl	_	LiLaflcat=n2
+9	iugulo	iugulum	NOUN	A2	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Sing	10	obl:lmod	_	LiLaflcat=n2
 10	inprimam	imprimo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	LiLaflcat=v3
 
 # sent_id = SenOedip-P-20-390
