@@ -1605,7 +1605,7 @@
 34	Phoebo	phoebus	PROPN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing	36	obl:arg	_	LASLAVariant=N|LiLaflcat=n2
 35	iam	iam	ADV	M	Degree=Pos	36	advmod:tmod	_	LiLaflcat=i
 36	notus	notus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	30	amod	_	LASLAVariant=2|LiLaflcat=n6
-37	et	et	ADV	M	Degree=Pos	38	advmod	_	LASLAVariant=1|LiLaflcat=i
+37	et	et	ADV	M	Degree=Pos	38	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 38	infans	infans	ADJ	C5	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	36	conj	_	LASLAVariant=2|LiLaflcat=n7
 
 # sent_id = SenOedip-P-20-70
