@@ -1624,7 +1624,7 @@
 10	bella	bellum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	11	obj	_	LiLaflcat=n2
 11	geres	gero	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	LiLaflcat=v3
 12	natis	natus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	15	obl:arg	_	LASLAVariant=1|LiLaflcat=n2
-13	quoque	quoque	PART	M	Form=Emp	15	advmod:emph	_	LiLaflcat=i
+13	quoque	quoque	PART	M	PartType=Emp	15	advmod:emph	_	LiLaflcat=i
 14	bella	bellum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	15	obj	_	LiLaflcat=n2
 15	relinquens	relinquo	VERB	B3	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	11	advcl:pred	_	LiLaflcat=v3
 16	turpia	turpis	ADJ	C4	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	14	amod	_	LiLaflcat=n7

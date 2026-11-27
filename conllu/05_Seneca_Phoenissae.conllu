@@ -744,7 +744,7 @@
 27	accedat	accedo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	_
 28	meas	meus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	25	det	_	_
 29	pii	pius	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	17	conj	_	_
-30	quoque	quoque	PART	M	Form=Emp	29	advmod	_	_
+30	quoque	quoque	PART	M	PartType=Emp	29	advmod:emph	_	_
 31	erimus	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	29	cop	_	_
 
 # sent_id = SenPhoen-P-17-47
@@ -1714,7 +1714,7 @@
 9	innocens	innocens	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Sing	7	advcl	_	_
 10	es	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	_
 11	dis	deus	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	9	advcl:abs	_	_
-12	quoque	quoque	PART	M	Form=Emp	13	advmod:emph	_	_
+12	quoque	quoque	PART	M	PartType=Emp	13	advmod:emph	_	_
 13	inuitis	inuitus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	11	amod	_	_
 
 # sent_id = SenPhoen-P-17-101
@@ -2014,7 +2014,7 @@
 2	parentes	parens	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Plur	1	conj	_	_
 3	liberi	liberi	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	1	conj	_	_
 4	uirtus	uirtus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	1	conj	_	_
-5	quoque	quoque	PART	M	Form=Emp	4	advmod:emph	_	_
+5	quoque	quoque	PART	M	PartType=Emp	4	advmod:emph	_	_
 6	et	et	CCONJ	S	_	10	cc	_	_
 7	ingeni	ingenium	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	10	nmod	_	_
 8	sollertis	sollers	ADJ	C5	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	7	amod	_	_
@@ -2029,7 +2029,7 @@
 17	lacrimae	lacrima	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	18	nsubj	_	_
 18	supererant	supersum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
 19	has	hic	DET	I	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Dem	21	obj	_	_
-20	quoque	quoque	PART	M	Form=Emp	19	advmod:emph	_	_
+20	quoque	quoque	PART	M	PartType=Emp	19	advmod:emph	_	_
 21	eripui	eripio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
 22	mihi	ego	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	21	obl:arg	_	_
 
@@ -2066,7 +2066,7 @@
 # text = infanti quoque decreta mors est
 # speaker = Oedipus
 1	infanti	infans	ADJ	C5	Case=Dat|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurI|Number=Sing	3	obl:arg	_	_
-2	quoque	quoque	PART	M	Form=Emp	1	advmod:emph	_	_
+2	quoque	quoque	PART	M	PartType=Emp	1	advmod:emph	_	_
 3	decreta	decerno	VERB	Y3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 4	mors	mors	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	3	nsubj:pass	_	_
 5	est	sum	AUX	Z3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
@@ -2184,7 +2184,7 @@
 5	abiecit	abicio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 6	pater	pater	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	5	nsubj	_	_
 7	mors	mors	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	9	nsubj	_	_
-8	quoque	quoque	PART	M	Form=Emp	7	advmod:emph	_	_
+8	quoque	quoque	PART	M	PartType=Emp	7	advmod:emph	_	_
 9	refugit	refugio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = SenPhoen-P-17-131
@@ -2227,7 +2227,7 @@
 # text = has quoque inuitum pati te coge poenas facinus ignotum efferum inusitatum effare quod populi horreant quod esse factum nulla non aetas neget quod parricidam pudeat in patrios toros tuli paterno sanguine aspersas manus scelerisque pretium maius accepi scelus
 # speaker = Oedipus
 1	has	hic	DET	I	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Dem	7	det	_	_
-2	quoque	quoque	PART	M	Form=Emp	3	advmod	_	_
+2	quoque	quoque	PART	M	PartType=Emp	3	advmod:emph	_	_
 3	inuitum	inuitus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc,Neut|InflClass=IndEurO|Number=Sing	5	amod	_	_
 4	pati	patior	VERB	B5	Aspect=Imp|InflClass=LatI2|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	6	xcomp	_	_
 5	te	tu	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
@@ -3038,7 +3038,7 @@
 # text = hoc quoque etiamnunc leue est peperi nocentes
 # speaker = Iocasta
 1	hoc	hic	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	quoque	quoque	PART	M	_	1	advmod:emph	_	_
+2	quoque	quoque	PART	M	PartType=Emp	1	advmod:emph	_	_
 3	etiamnunc	etiamnunc	ADV	M	Degree=Pos	4	advmod:tmod	_	_
 4	leue	leuis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	0	root	_	_
 5	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -3854,7 +3854,7 @@
 21	clipeus	clipeus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	22	nsubj	_	_
 22	uetat	ueto	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 23	hunc	hic	DET	I	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	25	obj	_	_
-24	quoque	quoque	PART	M	_	23	advmod:emph	_	_
+24	quoque	quoque	PART	M	PartType=Emp	23	advmod:emph	_	_
 25	repone	repono	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 
 # sent_id = SenPhoen-P-17-213
@@ -4242,7 +4242,7 @@
 6	desset	desum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
 7	paternis	paternus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	4	amod	_	_
 8	hoc	hic	DET	I	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	12	obj	_	_
-9	quoque	quoque	PART	M	_	8	advmod:emph	_	_
+9	quoque	quoque	PART	M	PartType=Emp	8	advmod:emph	_	_
 10	ex	ex	ADP	R	AdpType=Prep	11	case	_	_
 11	illis	ille	DET	I	Case=Abl|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem	12	obl	_	_
 12	habes	habeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -4344,7 +4344,7 @@
 9	saeuus	saeuus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	8	amod	_	_
 10	audet	audeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 11	hoc	hic	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	15	nsubj	_	_
-12	quoque	quoque	PART	M	_	11	advmod:emph	_	_
+12	quoque	quoque	PART	M	PartType=Emp	11	advmod:emph	_	_
 13	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	magnum	magnus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	15	amod	_	_
 15	nefas	nefas	NOUN	A6	Gender=Neut|InflClass=Ind	3	conj	_	_
@@ -4539,7 +4539,7 @@
 5	quo	qui	PRON	J	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	6	det	_	_
 6	iudice	iudex	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	10	obl	_	_
 7	erroris	error	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	9	nmod	_	_
-8	quoque	quoque	PART	M	_	7	advmod:emph	_	_
+8	quoque	quoque	PART	M	PartType=Emp	7	advmod:emph	_	_
 9	poenae	poena	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	10	nsubj:pass	_	_
 10	petuntur	peto	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	_
 

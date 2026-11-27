@@ -2400,7 +2400,7 @@
 15	stirps	stirps	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	14	nsubj	_	LiLaflcat=n3
 16	Inachia	inachius	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	15	amod	_	LASLAVariant=A|LiLaflcat=n6
 17	tu	tu	PRON	E	Case=Nom|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	21	det	_	LiLaflcat=p
-18	quoque	quoque	PART	M	Form=Emp	17	advmod:emph	_	LiLaflcat=i
+18	quoque	quoque	PART	M	PartType=Emp	17	advmod:emph	_	LiLaflcat=i
 19	nostros	noster	DET	F	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	23	det	_	LiLaflcat=n6
 20	Thespias	thespias	ADJ	C7	Case=Voc|Degree=Pos|Gender=Fem,Masc|InflClass=IndEurI|NameType=Geo|Number=Sing|Variant=Greek	21	amod	_	LASLAVariant=A|LiLaflcat=n7
 21	hospes	hospes	NOUN	A3	Case=Voc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	22	vocative	_	LiLaflcat=n3
