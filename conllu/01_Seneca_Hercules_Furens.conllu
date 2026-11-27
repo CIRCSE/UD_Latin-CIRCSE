@@ -8424,7 +8424,7 @@
 2	latus	latus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	4	nsubj	_	LASLAVariant=1|LiLaflcat=n3
 3	laeuum	laeuus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	amod	_	LiLaflcat=n6
 4	uacat	uaco	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
-5	spolio	spolium	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl:arg	_	LiLaflcat=n2
+5	spolio	spolium	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl	_	LiLaflcat=n2
 6	leonis	leo	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	5	nmod	_	LiLaflcat=n3
 
 # sent_id = SenHerFu-P-15-437
